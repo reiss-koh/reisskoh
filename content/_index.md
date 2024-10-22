@@ -39,7 +39,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: '🌟 Why I Chose Research'
+      title: '🌟 Why I Do Research'
       subtitle: ''
       text: |-
         Two experiences inspire me to do research.
