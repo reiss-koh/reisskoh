@@ -42,7 +42,7 @@ sections:
       title: '🌟 Why I Chose Research'
       subtitle: ''
       text: |-
-        Two forces inspire me to do research.
+        Two experiences inspire me to do research.
 
         **(1)** Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain, 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple clinical departments and major institutions, I was unable to receive a definitive diagnosis. 
         
