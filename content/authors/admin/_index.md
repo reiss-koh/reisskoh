@@ -34,9 +34,9 @@ profiles:
     url: 'mailto:reiss.koh@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: github.com/reiss-koh
+    url: https://github.com/reiss-koh
   - icon: academicons/google-scholar
-    url: scholar.google.com/citations?user=I8j9BBwAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=I8j9BBwAAAAJ&hl=en
 
 interests:
   - Foundation Models
