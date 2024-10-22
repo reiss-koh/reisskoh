@@ -45,8 +45,8 @@ interests:
 education:
   - area: Bachelor in Economics
     institution: Yonsei University
-    date_start: 2019-03
-    date_end: 2025-06
+    date_start: 2019-03-01
+    date_end: 2025-06-01
     summary: |
       GPA: 4.08/4.3
 work:
@@ -54,20 +54,20 @@ work:
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
     company_logo: ''
-    date_start: 2023-12
+    date_start: 2023-12-01
     date_end: ''
   - position: Research Intern
     company_name: IM^2 Lab, KAIST AI
     company_url: 'imsquared.org'
     company_logo: ''
-    date_start: 2023-07
-    date_end: 2023-9
+    date_start: 2023-07-01
+    date_end: 2023-09-01
   - position: Research Intern
     company_name: FE Lab, KAIST
     company_url: 'felab.kaist.ac.kr'
     company_logo: ''
-    date_start: 2022-06
-    date_end: 2023-04
+    date_start: 2022-06-01
+    date_end: 2023-04-01
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
