@@ -5,9 +5,9 @@ title: 'Curriculum Learning and Imitation Learning for Model-free Control on Fin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Woosung Koh
-  - Insu Choi
-  - Yuntae Jang
+  - Woosung Koh*
+  - Insu Choi*
+  - Yuntae Jang*
   - Gimin Kang
   - Woo Chang Kim
 
@@ -29,8 +29,8 @@ publishDate: '2024-02-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: AAAI 2024 AI4TS Workshop (Oral)
-publication_short: AAAI 2024 AI4TS Workshop (Oral)
+publication: AAAI 2024 AI4TS Workshop (Oral, 6 out of 22 accepted papers)
+publication_short: AAAI 2024 AI4TS Workshop (Oral, 6 out of 22 accepted papers)
 
 # Display this page in the Featured widget?
 featured: true
