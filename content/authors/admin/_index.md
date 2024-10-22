@@ -100,4 +100,4 @@ awards:
 
 ## About Me
 
-Hi! My research interests revolve around scaling foundation models to reach wide-reaching and superhuman abilities. I lived 18 years abroad and 6 years (on-going) in Korea, making me perfectly bilingual. Feel free to contact me if you want to collaborate.
+Hi! My research interests revolve around **scaling foundation models** to reach **wide-reaching** and **superhuman abilities**. I lived 18 years abroad and 6 years (on-going) in Korea, making me perfectly **bilingual**. Feel free to contact me if you want to collaborate.
