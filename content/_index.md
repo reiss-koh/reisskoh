@@ -42,7 +42,7 @@ sections:
       title: '🌟 Why I Do Research'
       subtitle: ''
       text: |-
-        Two experiences inspire me to do research.
+        Numerous experiences inspire me to do research. Here are two representative examples.
 
         **(1)** Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain, 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple clinical departments and major institutions, I was unable to receive a definitive diagnosis. 
         
