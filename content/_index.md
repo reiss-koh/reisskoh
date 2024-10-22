@@ -21,23 +21,12 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: bg.jpeg
+          filename: 
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     content:
       title: Recent Publications
