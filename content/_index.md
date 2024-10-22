@@ -42,7 +42,7 @@ sections:
       title: '🌟 Why I Chose Research'
       subtitle: ''
       text: |-
-        Out of blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple clinical departments and major institutions, I was unable to receive a definitive diagnosis. 
+        Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple clinical departments and major institutions, I was unable to receive a definitive diagnosis. 
         
         Naturally, I took matters into my own hands—I read numerous research papers and other online resources to try to find a diagnosis and continued searching for clinicians who could help me. Eventually, through modern science, my chronic pain was (mostly) resolved after approximately 1.5 years.
         
