@@ -1,27 +1,26 @@
 ---
-title: 'Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series'
+title: 'Encoding Temporal Statistical-space Priors via Augmented Representation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Woosung Koh*
   - Insu Choi*
-  - Yuntae Jang*
+  - Woosung Koh*
   - Gimin Kang
+  - Yuntae Jang
   - Woo Chang Kim
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2024-02-01T00:00:00Z'
+date: '2024-03-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-02-01T00:00:00Z'
+publishDate: '2024-03-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,8 +28,8 @@ publishDate: '2024-02-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)
-publication_short: AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)
+publication: IJCAI 2024 STRL Workshop (**Oral**)
+publication_short: IJCAI 2024 STRL Workshop (**Oral**)
 
 # Display this page in the Featured widget?
 featured: true
@@ -40,7 +39,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2311.13326'
+url_pdf: 'https://arxiv.org/abs/2401.16808'
 url_code: ''
 url_dataset: ''
 url_poster: ''
