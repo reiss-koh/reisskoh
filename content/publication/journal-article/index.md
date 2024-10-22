@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Engineering Applications of Artificial Intelligence"
-publication_short: "SCI, Q1"
+publication_short: "Engineering Applications of Artificial Intelligence"
 
 tags:
 - Source Themes
@@ -30,8 +30,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0952197623015622
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
