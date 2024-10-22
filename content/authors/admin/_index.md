@@ -43,7 +43,7 @@ interests:
   - Machine Learning
 
 education:
-  - area: Bachelor in Economics
+  - area: Undergraduate
     institution: Yonsei University
     date_start: 2019-03-01
     date_end: 2025-06-01
@@ -71,6 +71,7 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+```
 skills:
   - name: Technical Skills
     items:
@@ -102,14 +103,12 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
+```
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Korean
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
