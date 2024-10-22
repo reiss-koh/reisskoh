@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Engineering Applications of Artificial Intelligence (SCI, Q1)"
-publication_short: "{{< color 'red' 'Engineering Applications of Artificial Intelligence (SCI, Q1)' >}}"
+publication_short: "Engineering Applications of Artificial Intelligence (SCI, Q1)"{style="color: red"}
 
 tags:
 - Source Themes
