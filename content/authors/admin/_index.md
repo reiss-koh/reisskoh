@@ -43,17 +43,12 @@ interests:
   - Machine Learning
 
 education:
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor in Economics
+    institution: Yonsei University
+    date_start: 2019-03
+    date_end: 2025-06
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 4.08/4.3
 work:
   - position: Research Intern
     company_name: OSI Lab, KAIST AI
@@ -67,6 +62,12 @@ work:
     company_logo: ''
     date_start: 2023-07
     date_end: 2023-9
+  - position: Research Intern
+    company_name: FE Lab, KAIST
+    company_url: 'felab.kaist.ac.kr'
+    company_logo: ''
+    date_start: 2022-06
+    date_end: 2023-04
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
