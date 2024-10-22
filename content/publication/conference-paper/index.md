@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)
-publication_short: AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)
+publication_short: <span style="color: blue;">AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)</span>
 
 # Display this page in the Featured widget?
 featured: true
