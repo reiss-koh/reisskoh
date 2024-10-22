@@ -58,13 +58,13 @@ work:
     date_end: ''
   - position: Research Intern
     company_name: IM^2 Lab, KAIST AI
-    company_url: 'imsquared.org'
+    company_url: 'https://imsquared.org'
     company_logo: ''
     date_start: 2023-07-01
     date_end: 2023-09-01
   - position: Research Intern
     company_name: FE Lab, KAIST
-    company_url: 'felab.kaist.ac.kr'
+    company_url: 'https://felab.kaist.ac.kr'
     company_logo: ''
     date_start: 2022-06-01
     date_end: 2023-04-01
