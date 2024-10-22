@@ -80,6 +80,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: 27th Merit-based Tuition Scholarship
+    date: '2023-01-01'
+    awarder: Welcome Finance Group
+  - title: 26th Merit-based Tuition Scholarship
+    date: '2023-01-01'
+    awarder: Welcome Finance Group
   - title: 3rd Prize (out of 261) - Big Data Competition
     date: '2022-12-01'
     awarder: NH Investment & Securities
