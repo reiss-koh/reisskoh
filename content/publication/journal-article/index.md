@@ -1,8 +1,10 @@
 ---
-title: "An example journal article"
+title: "Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling"
 authors:
-- admin
-- Robert Ford
+- Insu Choi*
+- Woosung Koh*
+- Bonwoo Koo
+- Woo Chang Kim
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
