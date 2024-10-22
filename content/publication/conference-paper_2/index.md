@@ -30,8 +30,8 @@ publishDate: '2024-04-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: NeurIPS 2024 OWA Workshop (Under Review at ICLR 2025)
-publication_short: NeurIPS 2024 OWA Workshop (Under Review at ICLR 2025)
+publication: *NeurIPS 2024 OWA Workshop* (Under Review at *ICLR 2025*)
+publication_short: *NeurIPS 2024 OWA Workshop* (Under Review at *ICLR 2025*)
 
 # Display this page in the Featured widget?
 featured: true

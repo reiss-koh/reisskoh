@@ -32,8 +32,8 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: (Under Review at NAACL 2025)
-publication_short: (Under Review at NAACL 2025)
+publication: (Under Review at *NAACL 2025*)
+publication_short: (Under Review at *NAACL 2025*)
 
 # Display this page in the Featured widget?
 featured: true
