@@ -44,7 +44,7 @@ sections:
       text: |-
         Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain, 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple clinical departments and major institutions, I was unable to receive a definitive diagnosis. 
         
-        Naturally, I took matters into my own hands—I read numerous research papers and other online resources to try to find a diagnosis and continued searching for clinicians who could help me. Eventually, through modern science, my chronic pain was (mostly) resolved after approximately 1.5 years.
+        Naturally, I took matters into my own hands—I read numerous research papers and other online resources to try to find a diagnosis, while continuing to search for clinicians who could help me. Eventually, through modern science, my chronic pain was (mostly) resolved after approximately 1.5 years.
         
         In addition, most of my pain-induced psychological challenges have been fully resolved, and I believe I am now arguably healthier than before. Through this journey, I came to realize that my well-being—and that of others—rests on the shoulders of science and technology. I believe I wouldn’t be where I am today without the support of science and society, and I feel it is my responsibility to give back what I have received.
     design:
