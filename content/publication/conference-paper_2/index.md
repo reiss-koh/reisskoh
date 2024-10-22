@@ -42,10 +42,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2410.15876'
-url_code: ''
+url_code: 'https://github.com/flickerfusion305/FlickerFusion'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://flickerfusion305.github.io'
 url_slides: ''
 url_source: ''
 url_video: ''

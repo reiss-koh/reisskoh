@@ -44,10 +44,10 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/chartsquared/C-2'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://chartsquared.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
