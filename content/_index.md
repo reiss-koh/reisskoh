@@ -50,7 +50,9 @@ sections:
         
         Through this journey, I came to realize that my well-being—and that of others—rests on the shoulders of science and technology. I believe I wouldn’t be where I am today without the support of science and society, and I feel it is my responsibility to give back what I have received.
 
-        **(2)**
+        **(2)** During my mandatory national service (of 18 months) I had the pleasure to work at a social welfare center. This period significantly overlapped with my chornic pain described in **(1)**. Some of my time was spent with marginalized eldery, and those with physical and cognitive disabilities. Most of my time was spent with children in primary school. In this group of children there was one child who clearly had some form of developmental disability. Unfortunatly, she struggled to socialize with the other children and was occasionally excluded. While the senior care-givers did their best, the disabled child continued to struggled to thrive. Eventually, she left to a more specialized fascility. 
+
+        This 
     design:
       columns: '1'
 ---
