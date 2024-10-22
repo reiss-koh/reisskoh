@@ -50,18 +50,18 @@ education:
     summary: |
       GPA: 4.08/4.3
 work:
-  - position: KDD 2024 Research Track Reviewer
-    company_name: ACM SIGKDD
-    company_url: 'https://dl.acm.org/doi/proceedings/10.1145/3637528'
-    company_logo: ''
-    date_start: 2024-06-01
-    date_end: 2024-06-01
   - position: Research Intern
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
     company_logo: ''
     date_start: 2023-12-01
     date_end: ''
+  - position: KDD 2024 Research Track Reviewer
+    company_name: ACM SIGKDD
+    company_url: 'https://dl.acm.org/doi/proceedings/10.1145/3637528'
+    company_logo: ''
+    date_start: 2024-06-01
+    date_end: 2024-06-01
   - position: Research Intern
     company_name: IM^2 Lab, KAIST AI
     company_url: 'https://imsquared.org'
