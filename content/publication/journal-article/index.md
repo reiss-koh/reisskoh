@@ -1,8 +1,8 @@
 ---
 title: "Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling"
 authors:
-- Insu Choi
-- Woosung Koh
+- Insu Choi*
+- Woosung Koh*
 - Bonwoo Koo
 - Woo Chang Kim
 author_notes:
@@ -20,8 +20,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Engineering Applications of Artificial Intelligence (SCI, Q1)"
-publication_short: "Engineering Applications of Artificial Intelligence (SCI, Q1)"
+publication: "Engineering Applications of Artificial Intelligence"
+publication_short: "Engineering Applications of Artificial Intelligence"
 
 tags:
 - Source Themes
