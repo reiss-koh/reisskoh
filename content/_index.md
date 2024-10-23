@@ -48,7 +48,7 @@ sections:
         
         Naturally, I took matters into my own hands—I read numerous research papers and other online resources to try to find a diagnosis, while continuing to search for clinicians who could help me. Eventually, through modern science, my chronic pain was (mostly) resolved after 1.5 years after numerous interventions. I am happy to share that I now have it completely under control. In addition, most of my pain-induced psychological challenges have been fully resolved, and I believe I am now arguably healthier than before. 
         
-        Through this journey, I came to realize that my well-being—and that of others—rests on the shoulders of technological advancement. I believe I wouldn’t be where I am today without the support of science and society, and I feel it is my responsibility to give back what I have received.
+        Through this journey, I came to realize that my well-being—and that of others—rests on the shoulders of technological advancement. I believe I wouldn’t be where I am today without the support of science and society, and it is my responsibility to give back what I have received.
 
         **(2)** During my mandatory national service (which lasted 18 months), I had the pleasure of working at a social welfare center. This period significantly overlapped with the chronic pain I described in **(1)**. Some of my time was spent with marginalized elderly individuals and those with physical or cognitive disabilities, but most of it was dedicated to working with primary school children.
 
