@@ -9,7 +9,7 @@ authors:
   - Woosung Koh*
   - Gimin Kang
   - Yuntae Jang
-  - Woo Chang Kim
+  - Woo Chang Kim^
 
 # Author notes (optional)
 author_notes:

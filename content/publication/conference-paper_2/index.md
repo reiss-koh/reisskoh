@@ -5,14 +5,14 @@ title: 'FlickerFusion: Intra-trajectory Domain Generalizing Multi-Agent RL'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Woosung Koh
+  - Woosung Koh*
   - Wonbeen Oh
   - Siyeol Kim
   - Suhin Shin
   - Hyeongjin Kim
   - Jaein Jang
   - Junghyun Lee
-  - Se-Young Yun
+  - Se-Young Yun^
 
 # Author notes (optional)
 # author_notes:

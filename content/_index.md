@@ -30,7 +30,7 @@ sections:
   - block: collection
     content:
       title: 📚 Publications
-      text: ""
+      text: "*First Author(s), ^Advisor(s)"
       filters:
         folders:
           - publication
