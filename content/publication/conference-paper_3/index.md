@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2410.18652'
 url_code: 'https://github.com/chartsquared/C-2'
 url_dataset: ''
 url_poster: ''
