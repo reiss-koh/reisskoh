@@ -42,7 +42,7 @@ sections:
       title: '🧐 Currently Working On'
       subtitle: ''
       text: |-
-        As my main project, I am working on methods to improve **Foundation Agents** and **LLM Reasoning**! In my spare time, I help my friend on his **Video-to-Music** project. 
+        Primarily, I am working on methods to improve **Foundation Agents** and **LLM Reasoning**! In my spare time, I help my friend on his **Video-to-Music** project. 
     design:
       columns: '1'
   - block: markdown
