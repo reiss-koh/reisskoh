@@ -70,7 +70,7 @@ sections:
 
         Among these children, there was one girl who had a developmental disability. Unfortunately, she struggled to socialize with her neurotypical peers and was sometimes excluded. Despite the senior caregivers’ best efforts, she continued to face difficulties thriving in that environment. Eventually, she transferred to a more specialized facility, though she would occasionally visit us.
 
-        This experience of feeling helpless while caring for underprivileged individuals and groups inspires me to find ways to enrich and empower the lives of others. I believe that advancing science and technology is one of the best ways I can make a meaningful, positive impact. I hope to see a future where humanity’s progress fosters wide-spread inclusiveness.
+        This experience of feeling helpless while caring for underprivileged individuals and groups inspires me to find ways to enrich and empower the lives of others. I believe that advancing science is one of the best ways I can make a meaningful, positive impact. I hope to see a future where humanity’s progress fosters wide-spread inclusiveness.
     design:
       columns: '1'
 ---
