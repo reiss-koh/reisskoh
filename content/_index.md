@@ -60,7 +60,7 @@ sections:
       text: |-
         Numerous experiences inspire me to do research. Here are two representative examples.
 
-        **(1)** Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain, 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple clinical departments and major institutions, I was unable to receive a definitive diagnosis. 
+        **(1)** Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic pain. It was excruciating pain, 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple major institutions and clinical departments, I was unable to receive a definitive diagnosis. 
         
         Naturally, I took matters into my own hands—I read numerous research papers and other online resources to try to find a diagnosis, while continuing to search for clinicians who could help me. Eventually, through modern science, my chronic pain was (mostly) resolved after 1.5 years after numerous interventions. I am happy to share that I now have it completely under control. In addition, most of my pain-induced psychological challenges have been fully resolved, and I believe I am now arguably healthier than before. 
         
