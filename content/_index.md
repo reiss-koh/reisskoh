@@ -55,6 +55,14 @@ sections:
       columns: '1'
   - block: markdown
     content:
+      title: '🌏 Background'
+      subtitle: ''
+      text: |-
+        I was born In Seoul, Korea but moved to Bangladesh when I was 5 months old following my parents. I attended American International School of Dhaka (AISD) during my primary school years. Next, I was at Anglo-Chinese School (ACS) Jakarta for my middle school years. Then, I finished my International Baccalaureate for my high school degree. Then I came to Korea!
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: '🌟 Why I Do Research'
       subtitle: ''
       text: |-
