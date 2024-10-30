@@ -74,7 +74,7 @@ sections:
         
         Through this journey, I came to realize that my well-being—and that of others—rests on the shoulders of technological advancement. I believe I wouldn’t be where I am today without the support of science and society, and it is my responsibility to give back what I have received.
 
-        **(2)** During my mandatory national service (which lasted 18 months), I had the pleasure of working at a social welfare center. This period significantly overlapped with the chronic pain I described in **(1)**. Some of my time was spent with marginalized elderly individuals and those with physical or cognitive disabilities, but most of it was dedicated to working with primary school children.
+        **(2)** During my mandatory national service (which lasted 21 months), I had the pleasure of working at a social welfare center. This period significantly overlapped with the chronic pain I described in **(1)**. Some of my time was spent with marginalized elderly individuals and those with physical or cognitive disabilities, but most of it was dedicated to working with primary school children.
 
         Among these children, there was one girl who had a developmental disability. Unfortunately, she struggled to socialize with her neurotypical peers and was sometimes excluded. Despite the senior caregivers’ best efforts, she continued to face difficulties thriving in that environment. Eventually, she transferred to a more specialized facility, though she would occasionally visit us.
 
