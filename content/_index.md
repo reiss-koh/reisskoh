@@ -53,14 +53,14 @@ sections:
         🐹 First, I enjoy watching videos of cute animals. If you look at my *for you page* it is mostly guinea pigs, hamsters, rabbits, and so forth. Guinea pigs are my favorite! 🏋 A few times a week I go to the gym for weight training. When I was younger I played a lot of badminton, while dabbling with table tennis, tennis, soccer, and swimming. 🛫 Occasionally, I like to travel around with friends and family! I have been to Korea, Japan (Osaka, Kyoto, Nara, Tokyo), Thailand (Bangkok), Indonesia (Jakarta, Bali), Malaysia (Kuala Lumpur, Genting Highlands), Singapore, Bangladesh (Dhaka, Cox's Bazar), Hong Kong, and Canada (Vancouver). 🥂 I typically do not drink — good white wine and champagne are exceptions. 🍣 I also love sea food — e.g. sushi/sashimi (tuna, salmon, uni, fish roe), abalone, crab. I love grilling fresh clams! 📺 I occasionally enjoy watching sit coms. 🎼 I also listen to music all the time. When I was younger I briefly played the violin, drums, guitar, clarinet, and piano.
     design:
       columns: '1'
-  - block: markdown
-    content:
-      title: '🌏 Background'
-      subtitle: ''
-      text: |-
-        I was born In Seoul, Korea but moved to Bangladesh when I was 5 months old, following my parents. I attended American International School of Dhaka (AISD) during my primary school years. Next, I was at Anglo-Chinese School (ACS) Jakarta for my middle school years. Then, I finished my International Baccalaureate (IB) for my high school degree. I studied Math, Physics, Economics, Business, English, and Korean during my IB.
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '🌏 Background'
+  #     subtitle: ''
+  #     text: |-
+  #       I was born In Seoul, Korea but moved to Bangladesh when I was 5 months old, following my parents. I attended American International School of Dhaka (AISD) during my primary school years. Next, I was at Anglo-Chinese School (ACS) Jakarta for my middle school years. Then, I finished my International Baccalaureate (IB) for my high school degree. I studied Math, Physics, Economics, Business, English, and Korean during my IB.
+  #   design:
+  #     columns: '1'
   - block: markdown
     content:
       title: '🌟 Why I Do Research'
