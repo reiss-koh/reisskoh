@@ -49,13 +49,13 @@ education:
     date_end: 2025-06-01
     summary: |
       GPA: 4.08/4.3
-  - area: High school
+  - area: High School
     institution: International Baccalaureate
     date_end: 2018-06-01
-  - area: Middle school
+  - area: Middle School
     institution: Anglo-Chinese School (ACS) Jakarta
     date_end: 2015-06-01
-  - area: Primary school
+  - area: Primary School
     institution: American International School Dhaka (AISD)
     date_end: 2012-06-01
 work:
