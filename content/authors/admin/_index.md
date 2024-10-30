@@ -49,6 +49,12 @@ education:
     date_end: 2025-06-01
     summary: |
       GPA: 4.08/4.3
+  - area: High school
+    institution: International Baccalaureate
+  - area: Middle school
+    institution: Anglo-Chinese School (ACS) Jakarta
+  - area: Primary school
+    institution: American International School Dhaka (AISD)
 work:
   - position: Research Intern
     company_name: OSI Lab, KAIST AI
