@@ -58,7 +58,7 @@ sections:
       title: '🌏 Background'
       subtitle: ''
       text: |-
-        I was born In Seoul, Korea but moved to Bangladesh when I was 5 months old following my parents. I attended American International School of Dhaka (AISD) during my primary school years. Next, I was at Anglo-Chinese School (ACS) Jakarta for my middle school years. Then, I finished my International Baccalaureate (IB) for my high school degree.
+        I was born In Seoul, Korea but moved to Bangladesh when I was 5 months old, following my parents. I attended American International School of Dhaka (AISD) during my primary school years. Next, I was at Anglo-Chinese School (ACS) Jakarta for my middle school years. Then, I finished my International Baccalaureate (IB) for my high school degree. I studied Math, Physics, Economics, Business, English, and Korean during my IB.
     design:
       columns: '1'
   - block: markdown
