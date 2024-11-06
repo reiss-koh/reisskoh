@@ -107,7 +107,7 @@ awards:
   - title: Excellence Prize - Research Paper
     date: '2022-12-01'
     awarder: Korean Institute of Information Technology (KIIT) 
-  - title: 3rd Prize - Research Paper Presentation Award
+  - title: 3rd Prize - Research Paper Orals
     date: '2022-11-01'
     awarder: Korean Data & Information Science Society (KDISS)
   - title: 4th Prize - 12th DB Finance & Economics
