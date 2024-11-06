@@ -110,6 +110,11 @@ awards:
   - title: 3rd Prize - Research Paper Presentation Award
     date: '2022-11-01'
     awarder: Korean Data & Information Science Society (KDISS)
+  - title: 2nd Prize - 17th Economics Essay Competition
+    date: '2021-08-01'
+    awarder: Woori Financial Group
+    summary: |
+      Published on Korea Times, one of the major English news outlets in Korea founded in 1950.
   - title: 2nd Place - RUTC (Algorithmic Trading)
     date: '2021-08-01'
     awarder: University of Toronto
