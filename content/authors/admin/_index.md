@@ -110,8 +110,13 @@ awards:
   - title: 3rd Prize - Research Paper Presentation Award
     date: '2022-11-01'
     awarder: Korean Data & Information Science Society (KDISS)
+  - title: 4th Prize - 12th DB Finance & Economics
+    date: '2022-05-01'
+    awarder: DB Group
+    summary: |
+      Shared quantitative strategy research paper in-person at Nanyang Technology University (NTU). Received scholarship and fully sponsored trip to Singapore. 
   - title: 2nd Prize - 17th Economics Essay Competition
-    date: '2021-08-01'
+    date: '2021-11-01'
     awarder: Woori Financial Group
     summary: |
       Published on Korea Times, one of the major English news outlets in Korea founded in 1950.
