@@ -123,6 +123,8 @@ awards:
   - title: 2nd Place - RUTC (Algorithmic Trading)
     date: '2021-08-01'
     awarder: University of Toronto
+    summary: |
+      Placed 1st in the Algorithmic Statistical Arbitrage case.
   - title: Academic Honors
     date: '2020-08-01'
     awarder: Yonsei University
