@@ -125,6 +125,16 @@ awards:
     awarder: University of Toronto
     summary: |
       Placed 1st in the Algorithmic Statistical Arbitrage case.
+  - title: Nominated and Accepted to 1 Year Exchange at University of Toronto
+    date: '2020-08-31'
+    awarder: Yonsei University, University of Toronto
+    summary: |
+      It was later canceled due to COVID-19 :(
+  - title: Computer Science Dual Degree Acceptance
+    date: '2020-08-31'
+    awarder: Yonsei University
+    summary: |
+      Admitted to second degree in School of Computing, B.S. Computer Science. This is the **earliest** possible dual degree admission for Yonsei University students, and is very competitive. However, I later retracted this as it was unclear how it was helping my AI/ML research career. 
   - title: Academic Honors
     date: '2020-08-01'
     awarder: Yonsei University
