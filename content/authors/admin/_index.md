@@ -49,15 +49,6 @@ education:
     date_end: 2025-06-01
     summary: |
       GPA: 4.08/4.3
-  # - area: High School
-  #   institution: International Baccalaureate
-  #   date_end: 2018-06-01
-  # - area: Middle School
-  #   institution: Anglo-Chinese School (ACS) Jakarta
-  #   date_end: 2015-06-01
-  # - area: Primary School
-  #   institution: American International School Dhaka (AISD)
-  #   date_end: 2012-06-01
 work:
   - position: Research Intern
     company_name: OSI Lab, KAIST AI
@@ -143,4 +134,4 @@ awards:
 
 ## About Me
 
-👋 Hi! My research interests revolve around **efficiently scaling foundation models** to achieve **wide-reaching** and **superhuman abilities** in the long-run. I hope that such advancements will be benefitial to **humanity**, especially to those that continue to be marginalized. I lived 18 years abroad and 6 years (on-going) in Korea, making me perfectly **bilingual**. Feel free to contact me if you want to collaborate.
+👋 Hi! My research interests revolve around **efficiently scaling foundation models** to achieve **wide-reaching** and **superhuman abilities** in the long-run. I hope that such advancements will be benefitial to **humanity**, especially to those that continue to be marginalized. I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** (including Korean).

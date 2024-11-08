@@ -42,15 +42,7 @@ sections:
       title: '🧐 Currently Working On'
       subtitle: ''
       text: |-
-        I am primarily working on methods to improve **Foundation Agents** and **LLM Reasoning**! In my spare time, I help my friend on his project related to **Music Generation**. 
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: '🎨 Leisure and Hobbies'
-      subtitle: ''
-      text: |-
-        🐹 First, I enjoy watching videos of cute animals. If you look at my *for you page* it is mostly guinea pigs, hamsters, rabbits, and so forth. Guinea pigs are my favorite! 🏋 A few times a week I go to the gym for weight training. When I was younger I played a lot of badminton, while dabbling with table tennis, tennis, soccer, and swimming. 🛫 Occasionally, I like to travel around with friends and family! I have been to Korea, Japan (Osaka, Kyoto, Nara, Tokyo), Thailand (Bangkok), Indonesia (Jakarta, Bali), Malaysia (Kuala Lumpur, Genting Highlands), Singapore, Bangladesh (Dhaka, Cox's Bazar), Hong Kong, and Canada (Vancouver). 🥂 I typically do not drink — good white wine and champagne are exceptions. 🍣 I also love sea food — e.g. sushi/sashimi (tuna, salmon, uni, fish roe), abalone, crab. I love grilling fresh clams! 📺 I occasionally enjoy watching sit coms. 🎼 I also listen to music all the time. When I was younger I briefly played the violin, drums, guitar, clarinet, and piano.
+        I am primarily working on methods to improve **Foundation Agents** and **LLM Reasoning**! Let me know if you want to collaborate!
     design:
       columns: '1'
   - block: markdown
@@ -71,6 +63,14 @@ sections:
         Among these children, there was one girl who had a developmental disability. Unfortunately, she struggled to socialize with her neurotypical peers and was sometimes excluded. Despite the senior caregivers’ best efforts, she continued to face difficulties thriving in that environment. Eventually, she transferred to a more specialized facility, though she would occasionally visit us.
 
         This experience of feeling helpless while caring for underprivileged individuals and groups inspires me to find ways to enrich and empower the lives of others. I believe that advancing science is one of the best ways I can make a meaningful, positive impact. I hope to see a future where humanity’s progress fosters wide-spread inclusiveness.
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: '🎨 Leisure and Hobbies'
+      subtitle: ''
+      text: |-
+        🐹 First, I enjoy watching videos of cute animals. If you look at my *for you page* it is mostly guinea pigs, hamsters, rabbits, and so forth. Guinea pigs are my favorite! 🏋 A few times a week I go to the gym for weight training. When I was younger I played a lot of badminton, while dabbling with table tennis, tennis, soccer, and swimming. 🛫 Occasionally, I like to travel around with friends and family! I have been to Korea, Japan (Osaka, Kyoto, Nara, Tokyo), Thailand (Bangkok), Indonesia (Jakarta, Bali), Malaysia (Kuala Lumpur, Genting Highlands), Singapore, Bangladesh (Dhaka, Cox's Bazar), Hong Kong, and Canada (Vancouver). 🥂 I typically do not drink — good white wine and champagne are exceptions. 🍣 I also love sea food — e.g. sushi/sashimi (tuna, salmon, uni, fish roe), abalone, crab. I love grilling fresh clams! 📺 I occasionally enjoy watching sit coms. 🎼 I also listen to music all the time. When I was younger I briefly played the violin, drums, guitar, clarinet, and piano.
     design:
       columns: '1'
 ---
