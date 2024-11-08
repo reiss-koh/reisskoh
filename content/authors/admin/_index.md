@@ -105,7 +105,7 @@ awards:
     date: '2022-05-01'
     awarder: DB Group
     summary: |
-      Shared quantitative strategy research paper in-person at Nanyang Technology University (NTU). Received scholarship and fully sponsored trip to Singapore. 
+      Shared quantitative strategy research paper in-person at Nanyang Technology University (NTU). Received scholarship and full sponsored trip to Singapore. 
   - title: 2nd Prize - 17th Economics Essay Competition
     date: '2021-11-01'
     awarder: Woori Financial Group
