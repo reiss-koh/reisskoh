@@ -125,7 +125,7 @@ awards:
     date: '2020-08-31'
     awarder: Yonsei University
     summary: |
-      Admitted to second degree in School of Computing, B.S. Computer Science. This was the earliest possible dual degree admission for Yonsei University students, and was very competitive. However, I later retracted this as it was unclear how it was helping my AI/ML research career. 
+      Admitted to second degree in School of Computing, B.S. Computer Science. This was the earliest possible dual degree admission for my cohort, and is always very competitive. However, I later retracted this as it was unclear how it was helping my AI/ML research career. 
   - title: Academic Honors
     date: '2020-08-01'
     awarder: Yonsei University
