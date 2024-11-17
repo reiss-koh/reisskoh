@@ -54,7 +54,7 @@ education:
   # date_start: 2017-03-01
   date_end: 2018-06-01
   summary: |
-    GPA: 4.08/4.3
+    Math, Physics, Economics, Business, English, Korean
 work:
   - position: Research Intern
     company_name: OSI Lab, KAIST AI
