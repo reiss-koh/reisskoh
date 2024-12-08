@@ -42,7 +42,7 @@ sections:
       title: '🧐 Currently Working On'
       subtitle: ''
       text: |-
-        I am currently primarily working on methods to improve **Foundation Agents** and **LLM Reasoning**!
+        I am primarily working on methods to improve **Language Model Reasoning** and **Generalization**!
     design:
       columns: '1'
   - block: markdown
