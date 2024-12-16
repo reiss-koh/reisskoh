@@ -134,4 +134,4 @@ awards:
 
 ## About Me
 
-👋 Hi! My research interests revolve around **efficiently scaling foundation models** to realize **wide-reaching** and **superhuman abilities** in the long-run. I hope that such advancements will be benefitial to **humanity**, especially to those that continue to be marginalized. I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** with the addition of Korean.
+👋 Hi! My research interests revolve around **efficiently advancing foundation models** to realize **wide-reaching** and **superhuman abilities** in the long-run. I hope that such advancements will be benefitial to **humanity**, especially to those that continue to be marginalized. I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** with the addition of Korean.
