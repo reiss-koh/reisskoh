@@ -66,14 +66,14 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: '🌎 Background'
-      subtitle: ''
-      text: |-
-        I was born in Seoul, Korea but lived abroad with my family during my grade-school years, attending numerous institutions such as the American International School of Dhaka (AISD) and ACS Jakarta. During my high-school years I was a semi-professional e-sports player where I assumed the in-game leader (IGL) position throughout. A well renowned teamate I shared a majority of my career with is *f0rsakeN*. I seldom participated in academic endevours during my middle- and high-school years, but the skills and values I have gained performing near the highest-level were far more valuable than anything regular schooling could have taught me. Notably: leadership, emotional intelligence, perfecting a craft to the frontier, and going beyond existing state-of-the-art. Near the end of my high-school years I realized that I would be rejected from relevant universities at this rate, and began studying. Since then, I have dedicated my life to academia. Regarding leisure, when I was younger, I played a lot of badminton and was fairly fluent in the clarinet. 
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '🌎 Background'
+  #     subtitle: ''
+  #     text: |-
+  #       I was born in Seoul, Korea but lived abroad with my family during my grade-school years, attending numerous institutions such as the American International School of Dhaka (AISD) and ACS Jakarta. During my high-school years I was a semi-professional e-sports player where I assumed the in-game leader (IGL) position throughout. A well renowned teamate I shared a majority of my career with is *f0rsakeN*. I seldom participated in academic endevours during my middle- and high-school years, but the skills and values I have gained performing near the highest-level were far more valuable than anything regular schooling could have taught me. Notably: leadership, emotional intelligence, perfecting a craft to the frontier, and going beyond existing state-of-the-art. Near the end of my high-school years I realized that I would be rejected from relevant universities at this rate, and began studying. Since then, I have dedicated my life to academia. Regarding leisure, when I was younger, I played a lot of badminton and was fairly fluent in the clarinet. 
+  #   design:
+  #     columns: '1'
 
   # - block: markdown
   #   content:
