@@ -65,12 +65,22 @@ sections:
         This experience of feeling helpless while caring for underprivileged individuals and groups inspires me to find ways to enrich and empower the lives of others. I believe that advancing science is one of the best ways I can make a meaningful, positive impact. I hope to see a future where humanity’s progress fosters wide-spread inclusiveness.
     design:
       columns: '1'
+
   - block: markdown
     content:
-      title: '🎨 Leisure and Hobbies'
+      title: '🌎 Background'
       subtitle: ''
       text: |-
-        🐹 First, I enjoy watching videos of cute animals. If you look at my *for you page* it is mostly guinea pigs, hamsters, rabbits, and so forth. Guinea pigs are my favorite! 🏋 A few times a week I go to the gym for weight training. When I was younger I played a lot of badminton, while dabbling with table tennis, tennis, soccer, swimming, and golf. 🛫 Occasionally, I like to travel around with friends and family! I have been to Korea, Japan (Osaka, Kyoto, Nara, Tokyo), Thailand (Bangkok), Indonesia (Jakarta, Bali), Malaysia (Kuala Lumpur, Genting Highlands), Singapore, Bangladesh (Dhaka, Cox's Bazar), Hong Kong, and Canada (Vancouver). 🥂 I typically do not drink — good white wine and champagne are exceptions. 🍣 I also love sea food — e.g. sushi/sashimi (tuna, salmon, uni, fish roe), abalone, crab. I especially love grilling fresh clams! 📺 I occasionally enjoy watching sit coms. 🎼 I usually am always listening to music. When I was younger I briefly played the clarinet, drums, piano, violin, and guitar (in that order of fluency).
+        I was born in Seoul, Korea but lived abroad with my family during my grade-school years, attending numerous institutions such as American International School of Dhaka (AISD) and ACS Jakarta. During my high-school years I was a semi-professional e-sports player where I assumed the in-game leader (IGL) position throughout. A well renowned teamate I shared a majority of my career with is **f0rsakeN**. I seldom participated in academic endevours during my middle- and high-school years, but the skills and values I have gained performing near the highest-level were far more valuable than anything regular schooling could have taught me. Notably: leadership, emotional intelligence, perfecting a craft to the frontier, and going beyond existing state-of-the-art. Near the end of my grade-schooling years I realized that I would be rejected from relevant universities at this rate, and began studying. Since then, I have dedicated my life to academia. Regarding leisure, when I was younger, I played a lot of badminton and was fairly fluent in the clarinet. 
     design:
       columns: '1'
+
+  # - block: markdown
+  #   content:
+  #     title: '🎨 Leisure and Hobbies'
+  #     subtitle: ''
+  #     text: |-
+  #       🐹 First, I enjoy watching videos of cute animals. If you look at my *for you page* it is mostly guinea pigs, hamsters, rabbits, and so forth. Guinea pigs are my favorite! 🏋 A few times a week I go to the gym for weight training. When I was younger I played a lot of badminton, while dabbling with table tennis, tennis, soccer, swimming, and golf. 🛫 Occasionally, I like to travel around with friends and family! I have been to Korea, Japan (Osaka, Kyoto, Nara, Tokyo), Thailand (Bangkok), Indonesia (Jakarta, Bali), Malaysia (Kuala Lumpur, Genting Highlands), Singapore, Bangladesh (Dhaka, Cox's Bazar), Hong Kong, and Canada (Vancouver). 🥂 I typically do not drink — good white wine and champagne are exceptions. 🍣 I also love sea food — e.g. sushi/sashimi (tuna, salmon, uni, fish roe), abalone, crab. I especially love grilling fresh clams! 📺 I occasionally enjoy watching sit coms. 🎼 I usually am always listening to music. When I was younger I briefly played the clarinet, drums, piano, violin, and guitar (in that order of fluency).
+  #   design:
+  #     columns: '1'
 ---
