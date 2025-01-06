@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Intern
+role: Visiting Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -48,7 +48,7 @@ education:
     date_start: 2019-03-01
     date_end: 2025-06-01
     summary: |
-      GPA: 4.08/4.3<br>
+      GPA: 4.07/4.3<br>
       2 Year Leave for Mandatory National Service
   - area: Diploma Programme
     institution: International Baccalaureate
