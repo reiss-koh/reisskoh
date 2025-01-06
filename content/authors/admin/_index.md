@@ -57,7 +57,7 @@ education:
     summary: |
       Math, Physics, Economics, Business, English, Korean
 work:
-  - position: Research Intern
+  - position: Visiting Researcher
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
     company_logo: ''
