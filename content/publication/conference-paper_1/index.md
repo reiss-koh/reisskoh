@@ -28,8 +28,8 @@ publishDate: '2024-03-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "_IJCAI 2024 STRL Workshop_ (**Oral**)"
-publication_short: "_IJCAI 2024 STRL Workshop_ (**Oral**)"
+publication: "IJCAI 2024 STRL Workshop (**Oral**)"
+publication_short: "IJCAI 2024 STRL Workshop (**Oral**)"
 
 # Display this page in the Featured widget?
 featured: true

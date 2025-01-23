@@ -20,8 +20,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Engineering Applications of Artificial Intelligence_ (SCI, Q1)"
-publication_short: "_Engineering Applications of Artificial Intelligence_ (SCI, Q1)"
+publication: "**Engineering Applications of Artificial Intelligence** (SCIE, Q1)"
+publication_short: "**Engineering Applications of Artificial Intelligence** (SCIE, Q1)"
 
 tags:
 - Source Themes
