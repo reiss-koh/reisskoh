@@ -1,5 +1,5 @@
 ---
-title: "_C$^2$: Scalable Auto-Feedback for LLM-based Chart Generation_"
+title: "C$^2$: Scalable Auto-Feedback for LLM-based Chart Generation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,8 +32,8 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "NAACL 2025 Main (Long)"
-publication_short: "NAACL 2025 Main (Long)"
+publication: "*NAACL 2025 Main (Long)*"
+publication_short: "*NAACL 2025 Main (Long)*"
 
 # Display this page in the Featured widget?
 featured: true
