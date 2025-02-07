@@ -39,14 +39,6 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: '🧐 Currently Working On'
-      subtitle: ''
-      text: |-
-        I am primarily working on methods to improve **Language Model Reasoning** and **Generalization**!
-    design:
-      columns: '1'
-  - block: markdown
-    content:
       title: '🌟 Why I Do Research'
       subtitle: ''
       text: |-
