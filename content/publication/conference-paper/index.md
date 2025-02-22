@@ -1,5 +1,5 @@
 ---
-title: 'Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series'
+title: '*[W1]* Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

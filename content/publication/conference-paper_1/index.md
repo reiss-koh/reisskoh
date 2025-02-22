@@ -1,5 +1,5 @@
 ---
-title: 'Encoding Temporal Statistical-space Priors via Augmented Representation'
+title: '*[W2]* Encoding Temporal Statistical-space Priors via Augmented Representation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

@@ -1,5 +1,5 @@
 ---
-title: "Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling"
+title: "**[J1]** Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling"
 authors:
 - Insu Choi*
 - Woosung Koh*
