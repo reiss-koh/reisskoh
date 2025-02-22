@@ -135,9 +135,9 @@ awards:
 
 ---
 
-## About Me
+## About My Research
 
-👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. My past works makes **&#91;C2&#93;** Agents more generalizable and *significantly* more reliable; and **&#91;W1&#93;** improves Agents in noisy, non-stationary environments. 
+👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. My past works makes **&#91;C1&#93;** agents more generalizable and *significantly* more reliable; and **&#91;W1&#93;** improves agents in noisy, non-stationary environments. I have also made an **&#91;C2&#93;** agentic framework for scalable LM-based (multi-modal) chart generation, with robust improvements across 27B, 70B, and frontier-level LMs. 
 
 My 
 I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** with the addition of Korean. 👇 You can check out my publications below. Feel free to reach out to me via email.
