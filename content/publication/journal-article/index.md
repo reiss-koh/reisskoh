@@ -1,7 +1,7 @@
 ---
 title: "Network-based exploratory data analysis and explainable three-stage deep clustering for financial customer profiling"
 authors:
-- \[J1\] Insu Choi*
+- "**&#91;J1&#93;** Insu Choi*"
 - Woosung Koh*
 - Bonwoo Koo
 - Woo Chang Kim^
