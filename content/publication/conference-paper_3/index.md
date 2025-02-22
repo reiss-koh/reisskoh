@@ -5,7 +5,7 @@ title: "C$^2$: Scalable Auto-Feedback for LLM-based Chart Generation"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - <strong>[C2]</strong> Woosung Koh*
+  - [C2] Woosung Koh*
   - Jang Han Yoon*
   - MinHyung Lee
   - Youngjin Song
