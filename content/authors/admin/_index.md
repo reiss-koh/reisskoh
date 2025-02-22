@@ -39,7 +39,9 @@ profiles:
     url: https://scholar.google.com/citations?user=I8j9BBwAAAAJ&hl=en
 
 interests:
-  - Foundation Models
+  - Language Model Agents
+  - Reliable Language Models
+  - Efficient Language Models
   - Reinforcement Learning
 
 education:

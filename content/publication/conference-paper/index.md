@@ -1,11 +1,11 @@
 ---
-title: '*[W1]* Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series'
+title: 'Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Woosung Koh*
+  - __[W1]__ Woosung Koh*
   - Insu Choi*
   - Yuntae Jang*
   - Gimin Kang
