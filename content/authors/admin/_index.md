@@ -40,8 +40,8 @@ profiles:
 
 interests:
   - Language Model Agents
-  - Reliable Language Models
-  - Efficient Language Models
+  - Efficient Models
+  - Reliable and Safe Models
   - Reinforcement Learning
 
 education:
