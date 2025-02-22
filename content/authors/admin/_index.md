@@ -137,7 +137,7 @@ awards:
 
 ## About Me
 
-👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. My past work \[C1\]  Agents ()
+👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. My past works makes `[C2]` Agents more generalizable and reliable, and `[W1]` improves Agents under 
 I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** with the addition of Korean. 👇 You can check out my publications below. Feel free to reach out to me via email.
 
 <!-- My research interests revolve around **efficiently advancing foundation models** to realize **wide-reaching** and **superhuman abilities** in the long-run. I hope that such advancements will be beneficial to **humanity**, especially to those that continue to be marginalized.  -->
