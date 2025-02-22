@@ -5,7 +5,7 @@ title: 'Curriculum Learning and Imitation Learning for Model-free Control on Fin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "**&#91;W1&#93;** Woosung Koh*"
+  - "[W1]Woosung Koh*"
   - Insu Choi*
   - Yuntae Jang*
   - Gimin Kang
