@@ -1,11 +1,11 @@
 ---
-title: '*[W2]* Encoding Temporal Statistical-space Priors via Augmented Representation'
+title: 'Encoding Temporal Statistical-space Priors via Augmented Representation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Insu Choi*
+  - __[W2]__ Insu Choi*
   - Woosung Koh*
   - Gimin Kang
   - Yuntae Jang

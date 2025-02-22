@@ -135,6 +135,7 @@ awards:
 
 ## About Me
 
-👋 Hi! I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** with the addition of Korean. 👇 You can check out my publications below. Feel free to reach out to me via email.
+👋 Hi! My principal research interest is in the intersection of Language Models and Agentic Behaviour.  Agents ()
+I lived 18 years abroad and 6 years (on-going) in Korea. My native language is **English** — recently becoming **bilingual** with the addition of Korean. 👇 You can check out my publications below. Feel free to reach out to me via email.
 
 <!-- My research interests revolve around **efficiently advancing foundation models** to realize **wide-reaching** and **superhuman abilities** in the long-run. I hope that such advancements will be beneficial to **humanity**, especially to those that continue to be marginalized.  -->
