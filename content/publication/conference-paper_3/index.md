@@ -32,8 +32,8 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**NAACL 2025 Main (Oral [7.7% of Submissions], Long)**"
-publication_short: "**NAACL 2025 Main (Oral [7.7% of Submissions], Long)**"
+publication: "**NAACL 2025 Main (Oral, Long) (7.7% of Submissions)**"
+publication_short: "**NAACL 2025 Main (Oral, Long) (7.7% of Submissions)**"
 
 # Display this page in the Featured widget?
 featured: true
