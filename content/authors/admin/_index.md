@@ -66,7 +66,7 @@ work:
     date_start: 2023-12-01
     date_end: ''
   - position: Research Intern
-    company_name: IM^2 Lab, KAIST AI
+    company_name: HuGe Lab, KAIST AI
     company_url: 'https://imsquared.org'
     company_logo: ''
     date_start: 2023-07-01
