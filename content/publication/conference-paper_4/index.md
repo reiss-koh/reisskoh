@@ -5,7 +5,7 @@ title: "AdaSTaR: Adaptive Sampling in Training Self-Taught Reasoners"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[P1] Woosung Koh"
+  - "[P1] Woosung Koh*"
   - ...
   - Se-Young Yun^
 
