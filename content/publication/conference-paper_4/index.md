@@ -1,5 +1,5 @@
 ---
-title: "AdaSTaR: Adaptive Sampling in Training Self-Taught Reasoners"
+title: "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
