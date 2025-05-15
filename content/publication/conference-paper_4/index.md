@@ -6,7 +6,14 @@ title: "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners"
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - "[P1] Woosung Koh*"
-  - ...
+  - Wonbeen Oh
+  - Jaein Jang
+  - MinHyung Lee
+  - Hyeongjin Kim
+  - Ah Yeon Kim
+  - Joonkee Kim
+  - Junghyun Lee
+  - Taehyeon Kim
   - Se-Young Yun^
 
 # Author notes (optional)
