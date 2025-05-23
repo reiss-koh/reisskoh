@@ -32,8 +32,8 @@ publishDate: '2025-04-19T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**Preprint, coming very soon**"
-publication_short: "**Preprint, coming very soon**"
+publication: "**Preprint**"
+publication_short: "**Preprint**"
 
 # Display this page in the Featured widget?
 featured: true
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.arxiv.org/abs/2505.16322'
 url_code: ''
 url_dataset: ''
 url_poster: ''
