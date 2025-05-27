@@ -67,7 +67,7 @@ work:
     date_end: ''
   - position: Research Intern
     company_name: HuGe Lab, KAIST AI
-    company_url: 'https://imsquared.org'
+    company_url: 'https://www.hugelab.org/'
     company_logo: ''
     date_start: 2023-07-01
     date_end: 2023-09-01
@@ -137,6 +137,10 @@ awards:
 
 ## About Me
 
-👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. **&#91;P1&#93;** I am currently working on efficient and effective LM reasoning training; but nevertheless interested in a wide range of open problems. My past works make **&#91;C1&#93;** multi-agents more generalizable and significantly more reliable; and **&#91;W1&#93;** improves agents in noisy environments. I have also made an **&#91;C2&#93;** agentic LLM-as-a-Judge framework for scalable LM-based (multi-modal) chart generation, with robust improvements across 27B, 70B, and frontier-level LMs. In the past, I worked on **&#91;J1&#93;** personalization and user-centric machine learning; and **&#91;W2&#93;** improving time-series representation learning under non-stationarity.
+👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. **&#91;P1&#93;** I have recently worked on efficient and effective LM reasoning training. My past works make **&#91;C1&#93;** multi-agents more generalizable and significantly more reliable; and **&#91;W1&#93;** improves agents in noisy environments. I have also made an **&#91;C2&#93;** agentic framework for scalable LM-based (multi-modal) chart generation, with robust improvements across 27B, 70B, and frontier-level LMs. 
 
-I am perfectly bilingual in **English** and **Korean**. I love to chat about research and downstream impact; feel free to reach out to me via email 📧.
+I am currently primarily looking into (1) LM reasoning, and (2) LM agents and agentic systems; but nevertheless interested in a wide range of open problems related to LMs.
+
+In the past, I worked on **&#91;J1&#93;** personalization and user-centric machine learning; and **&#91;W2&#93;** improving time-series representation learning under non-stationarity.
+
+I am perfectly bilingual in **English** and **Korean**. I love to chat about research and downstream impact; feel free to reach out via email 📧.
