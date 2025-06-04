@@ -42,8 +42,8 @@ sections:
       title: 'Mentees'
       subtitle: ''
       text: |-
-          I am fortunate to have mentored the following individuals.
-          - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI
+          <small>I am fortunate to have mentored the following individuals.
+          - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI</small>
 
     design:
       columns: '1'
