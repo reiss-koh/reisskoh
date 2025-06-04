@@ -37,24 +37,14 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: markdown
-  #   content:
-  #     title: '🌟 Why I Do Research'
-  #     subtitle: ''
-  #     text: |-
-        # Numerous experiences inspire me to do research. Here are two representative examples.
+  - block: markdown
+    content:
+      title: 'Mentees'
+      subtitle: ''
+      text: |-
+          I am fortunate to have mentored the following individuals.
+          - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI
 
-        # **(1)** Out of the blue, at the beginning of the COVID-19 pandemic, I began suffering from chronic orofacial pain. It was excruciating pain, 24/7. I had to go to the emergency room twice and faced significant physio-psychological challenges. Despite consulting multiple major institutions and clinical departments, I was unable to receive a definitive diagnosis. 
-        
-        # Naturally, I took matters into my own hands—I read numerous research papers and other online resources to try to find a diagnosis, while continuing to search for clinicians who could help me. Eventually, through numerous interventions, my chronic pain was (mostly) resolved after 1.5 years. I am happy to share that I now have it completely under control. In addition, most of my pain-induced psychological challenges have been fully resolved, and I believe I am now arguably healthier than ever before. 
-        
-        # Through this journey, I came to realize that my well-being—and that of others—rests on the shoulders of technological advancement. I believe I wouldn’t be where I am today without the support of science and society, and it is my responsibility to give back what I have received.
-
-        # **(2)** During my mandatory national service (which lasted 21 months), I had the pleasure of working at a social welfare center. This period significantly overlapped with the chronic pain I described in **(1)**. Some of my time was spent with marginalized elderly individuals and those with physical or cognitive disabilities, but most of it was dedicated to working with primary school children.
-
-        # Among these children, there was one girl who had a developmental disability. Unfortunately, she struggled to socialize with her neurotypical peers and was sometimes excluded. Despite the senior caregivers’ best efforts, she continued to face difficulties thriving in that environment. Eventually, she transferred to a more specialized facility, though she would occasionally visit us.
-
-        # This experience of feeling helpless while caring for underprivileged individuals and groups inspires me to find ways to enrich and empower the lives of others. I believe that advancing science is one of the best ways I can make a meaningful, positive impact. I hope to see a future where humanity’s progress fosters wide-spread inclusiveness.
-  #   design:
-  #     columns: '1'
+    design:
+      columns: '1'
 ---
