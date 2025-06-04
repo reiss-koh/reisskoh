@@ -39,7 +39,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: 'Mentees'
+      title: 'Past Mentees'
       subtitle: ''
       text: |-
           <small>I am fortunate to have mentored the following individuals.
