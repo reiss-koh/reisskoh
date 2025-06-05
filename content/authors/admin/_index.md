@@ -50,7 +50,7 @@ education:
     date_start: 2019-03-01
     date_end: 2025-06-01
     summary: |
-      GPA: 4.07/4.3
+      GPA: 4.07/4.3 <br>
       2 Year Leave for Mandatory National Service
   - area: Diploma Programme
     institution: International Baccalaureate
