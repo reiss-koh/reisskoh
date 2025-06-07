@@ -42,7 +42,7 @@ sections:
       title: '🤺 Mentees'
       subtitle: ''
       text: |-
-          <small>I am fortunate to have mentored the following individuals.
+          <small> I have been fortunate to mentor individuals listed below, just as I have benefited from the guidance of numerous impactful mentors and advisors throughout my own journey. I hope to pay it forward by supporting and inspiring the next generation of researchers.
           - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI</small>
 
     design:
