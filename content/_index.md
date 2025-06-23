@@ -44,6 +44,7 @@ sections:
       text: |-
           <small> I have been fortunate to mentor individuals listed below, just as I have benefited from the guidance of numerous mentors and advisors throughout my own journey.
           - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI</small>
+          - Hyeongjin Kim ⟶ Intern (Advanced Research), Hyundai Mobis</small>
 
     design:
       columns: '1'
