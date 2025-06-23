@@ -45,13 +45,12 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: M.S.
+  - area: M.S. (Masters Thesis)
     institution: KAIST AI
     date_start: 2025-09-01
     date_end: ''
     summary: |
-      GPA: 4.07/4.3 <br>
-      2 Year Leave for Mandatory National Service
+      Full-ride National Scholarship and Stipend
   - area: Bachelors
     institution: Yonsei University
     date_start: 2019-03-01
