@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Visiting Researcher
+role: Research Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OSI Lab, KAIST AI
-    url: https://osi.kaist.ac.kr/
+  - name: Trillion Labs
+    url: https://trillionlabs.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -59,12 +59,18 @@ education:
     summary: |
       Math, Physics, Economics, Business, English, Korean
 work:
+  - position: Research Intern
+    company_name: Trillion Labs
+    company_url: 'https://trillionlabs.co/'
+    company_logo: ''
+    date_start: 2025-06-01
+    date_end: ''
   - position: Visiting Researcher
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
     company_logo: ''
     date_start: 2023-12-01
-    date_end: ''
+    date_end: '2025-06-01'
   - position: Research Intern
     company_name: HuGe Lab, KAIST AI
     company_url: 'https://www.hugelab.org/'
