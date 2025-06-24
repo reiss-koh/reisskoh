@@ -151,7 +151,7 @@ awards:
 
 👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. **&#91;P1&#93;** I have recently worked on efficient and effective LM reasoning training. My past works make **&#91;C1&#93;** multi-agents more generalizable and significantly more reliable; and **&#91;W1&#93;** improves agents in noisy environments. I have also made an **&#91;C2&#93;** agentic framework for scalable LM-based chart generation (code and image), with robust improvements across 27B, 70B, and frontier-level LMs. 
 
-I am currently primarily looking into (1) LM pretraining, (2) LM reasoning, and (3) LM agents and agentic systems; but nevertheless interested in a wide range of open problems related to LMs.
+I am currently primarily looking into (1) LM pretraining, (2) LM reasoning, and (3) LM agents and agentic systems.
 
 In the past, I worked on **&#91;J1&#93;** personalization and user-centric machine learning; and **&#91;W2&#93;** improving time-series representation learning under non-stationarity.
 
