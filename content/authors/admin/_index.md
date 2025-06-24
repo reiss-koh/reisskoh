@@ -45,7 +45,7 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: M.S. (Research)
+  - area: Graduate Student
     institution: KAIST AI
     date_start: 2025-09-01
     date_end: ''
