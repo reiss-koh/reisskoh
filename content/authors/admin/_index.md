@@ -76,7 +76,7 @@ work:
     company_url: 'https://osi.kaist.ac.kr/'
     company_logo: ''
     date_start: 2023-12-01
-    date_end: '2025-06-01'
+    date_end: ''
   - position: Research Intern
     company_name: HuGe Lab, KAIST AI
     company_url: 'https://www.hugelab.org/'
