@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Visiting Researcher
+role: Research Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OSI Lab, KAIST AI
-    url: https://osi.kaist.ac.kr/
+  - name: Trillion Labs
+    url: https://trillionlabs.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -45,7 +45,13 @@ interests:
   - Reinforcement Learning
 
 education:
-  - area: Undergraduate
+  - area: Graduate Student
+    institution: KAIST AI
+    date_start: 2025-09-01
+    date_end: ''
+    summary: |
+      Full-ride National Scholarship and Stipend
+  - area: Bachelors
     institution: Yonsei University
     date_start: 2019-03-01
     date_end: 2025-06-01
@@ -59,6 +65,12 @@ education:
     summary: |
       Math, Physics, Economics, Business, English, Korean
 work:
+  - position: Research Intern
+    company_name: Trillion Labs
+    company_url: 'https://trillionlabs.co/'
+    company_logo: ''
+    date_start: 2025-06-01
+    date_end: ''
   - position: Visiting Researcher
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
@@ -139,7 +151,7 @@ awards:
 
 👋 Hi! My principal research interest is at the intersection of **Language Models** and **Agentic Behaviour**. **&#91;P1&#93;** I have recently worked on efficient and effective LM reasoning training. My past works make **&#91;C1&#93;** multi-agents more generalizable and significantly more reliable; and **&#91;W1&#93;** improves agents in noisy environments. I have also made an **&#91;C2&#93;** agentic framework for scalable LM-based chart generation (code and image), with robust improvements across 27B, 70B, and frontier-level LMs. 
 
-I am currently primarily looking into (1) LM reasoning, and (2) LM agents and agentic systems; but nevertheless interested in a wide range of open problems related to LMs.
+I am currently primarily looking into (1) LM pretraining, (2) LM reasoning, and (3) LM agents and agentic systems.
 
 In the past, I worked on **&#91;J1&#93;** personalization and user-centric machine learning; and **&#91;W2&#93;** improving time-series representation learning under non-stationarity.
 
