@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
     design:
-      css_class: light
+      css_class: dark
       background:
         color: black
         image:
