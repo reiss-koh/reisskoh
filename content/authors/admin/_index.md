@@ -39,8 +39,9 @@ profiles:
     url: https://scholar.google.com/citations?user=I8j9BBwAAAAJ&hl=en
 
 interests:
-  - Reasoning and Agents
+  - Foundation Models (pre- and mid-training)
   - Efficient Learning and Models
+  - Reasoning and Agents
 
 education:
   - area: Graduate Student
