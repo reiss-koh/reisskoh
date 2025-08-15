@@ -39,7 +39,7 @@ profiles:
     url: https://scholar.google.com/citations?user=I8j9BBwAAAAJ&hl=en
 
 interests:
-  - Foundation Models (pre- and mid-training)
+  - Foundation Models
   - Efficient Learning and Models
   - Reasoning and Agents
 
