@@ -1,5 +1,5 @@
 ---
-title: "rBridge: Efficient Evaluation Scale Transfer for Reasoning Pre-training"
+title: "rBridge: Evaluation Scale Transfer for Efficient Reasoning Pre-training"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
