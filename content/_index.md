@@ -42,7 +42,7 @@ sections:
       title: '🤺 Mentees'
       subtitle: ''
       text: |-
-          <small> I have been fortunate to mentor individuals listed below, just as I have benefited from the guidance of numerous mentors and advisors throughout my own journey.
+          <small> I have been fortunate to mentor individuals listed below, just as I have benefited from the guidance of numerous mentors throughout my own journey.
           - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI
           - Hyeongjin Kim ⟶ Intern (Advanced Research), Hyundai Mobis ⟶ Research Intern, HOLI Lab, SNU</small>
 
