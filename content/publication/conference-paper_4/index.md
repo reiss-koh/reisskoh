@@ -5,7 +5,7 @@ title: "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[P1] Woosung Koh*"
+  - "[C3] Woosung Koh*"
   - Wonbeen Oh
   - Jaein Jang
   - MinHyung Lee
@@ -32,8 +32,8 @@ publishDate: '2025-04-19T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**Preprint**"
-publication_short: "**Preprint**"
+publication: "**NeurIPS 2025**"
+publication_short: "**NeurIPS 2025**"
 
 # Display this page in the Featured widget?
 featured: true
