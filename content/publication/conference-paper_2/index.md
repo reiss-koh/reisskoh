@@ -12,7 +12,7 @@ authors:
   - Hyeongjin Kim
   - Jaein Jang
   - Junghyun Lee
-  - Se-Young Yun^
+  - Se-Young Yun
 
 # Author notes (optional)
 # author_notes:

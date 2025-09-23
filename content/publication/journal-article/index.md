@@ -4,7 +4,7 @@ authors:
 - "[J1] Insu Choi*"
 - Woosung Koh*
 - Bonwoo Koo
-- Woo Chang Kim^
+- Woo Chang Kim
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

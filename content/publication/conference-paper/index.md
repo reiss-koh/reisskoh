@@ -9,7 +9,7 @@ authors:
   - Insu Choi*
   - Yuntae Jang*
   - Gimin Kang
-  - Woo Chang Kim^
+  - Woo Chang Kim
 
 # Author notes (optional)
 author_notes:

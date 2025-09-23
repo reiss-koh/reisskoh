@@ -14,7 +14,7 @@ authors:
   - Joonkee Kim
   - Junghyun Lee
   - Taehyeon Kim
-  - Se-Young Yun^
+  - Se-Young Yun
 
 # Author notes (optional)
 # author_notes:

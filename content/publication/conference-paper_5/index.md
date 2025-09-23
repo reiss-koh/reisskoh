@@ -1,18 +1,21 @@
 ---
-title: "rBridge: Evaluation Scale Transfer for Efficient Reasoning Pre-training"
+title: "Predicting LLM Reasoning Performance with Small Proxy Model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[WIP] Woosung Koh*"
-  - ...
+  - "Woosung Koh*"
+  - "Juyoung Suk"
+  - "Sungjun Han"
+  - "Se-Young Yun"
+  - "Jay Shin"
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 
-date: '2025-10-19T00:00:00Z'
+date: '2025-09-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -24,8 +27,8 @@ publishDate: '2025-08-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**Work in Progress**"
-publication_short: "**Work in Progress**"
+publication: "**Pre-print**"
+publication_short: "**Pre-print**"
 
 # Display this page in the Featured widget?
 featured: true

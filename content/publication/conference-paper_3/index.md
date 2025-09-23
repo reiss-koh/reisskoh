@@ -12,9 +12,9 @@ authors:
   - Jaegwan Cho
   - Jaehyun Kang
   - Taehyeon Kim
-  - Se-Young Yun^
-  - Youngjae Yu^
-  - Bongshin Lee^
+  - Se-Young Yun
+  - Youngjae Yu
+  - Bongshin Lee
 
 # Author notes (optional)
 # author_notes:
