@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: markdown
     content:
-      title: '🙏 Service'
+      title: 'Service'
       subtitle: ''
       text: |-
           <small> 

@@ -39,7 +39,7 @@ sections:
       view: citation
   - block: markdown
     content:
-      title: '🤺 Mentees'
+      title: 'Mentees'
       subtitle: ''
       text: |-
           <small> I have been fortunate to mentor individuals listed below, just as I have benefited from the guidance of numerous mentors throughout my own journey.
