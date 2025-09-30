@@ -3,7 +3,7 @@ title: "Network-based exploratory data analysis and explainable three-stage deep
 authors:
 - "[J1] Insu Choi*"
 - Woosung Koh*
-- Bonwoo Koo
+- Bonwoo Koo*
 - Woo Chang Kim
 author_notes:
 - "Equal contribution"

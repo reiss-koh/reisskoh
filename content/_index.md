@@ -29,8 +29,8 @@ sections:
           parallax: false
   - block: collection
     content:
-      title: 📚 Publications
-      text: "*First Author(s)"
+      title: Publications
+      text: "*Equal contribution"
       filters:
         folders:
           - publication
