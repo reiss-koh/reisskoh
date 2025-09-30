@@ -42,9 +42,10 @@ sections:
       title: 'Mentees'
       subtitle: ''
       text: |-
-          <small>
+          <small> 
           - MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI
-          - Hyeongjin Kim ⟶ Intern (Advanced Research), Hyundai Mobis ⟶ Research Intern, HOLI Lab, SNU</small>
+          - Hyeongjin Kim ⟶ Intern (Advanced Research), Hyundai Mobis ⟶ Research Intern, HOLI Lab, SNU
+          </small>
 
     design:
       columns: '1'
