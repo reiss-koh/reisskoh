@@ -41,7 +41,7 @@ sections:
     content:
       title: 'Mentees'
       subtitle: ''
-      text: |-
+      text: |
         <small>
           <ul>
             <li>MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI</li>
