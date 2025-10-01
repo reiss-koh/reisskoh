@@ -30,8 +30,8 @@ publishDate: '2024-04-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**ICLR 2025** (Prelim. NeurIPS 2024 Open-World Agent Workshop)"
-publication_short: "**ICLR 2025** (Prelim. NeurIPS 2024 Open-World Agent Workshop)"
+publication: "**ICLR 2025**"
+publication_short: "**ICLR 2025**"
 
 # Display this page in the Featured widget?
 featured: true
