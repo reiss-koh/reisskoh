@@ -44,7 +44,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://www.arxiv.org/abs/2505.16322'
-url_code: ''
+url_code: 'https://github.com/reiss-koh/AdaSTaR'
 url_dataset: ''
 url_poster: ''
 url_project: ''
