@@ -69,7 +69,7 @@ work:
     company_url: 'https://trillionlabs.co/'
     company_logo: ''
     date_start: 2025-06-01
-    date_end: ''
+    date_end: 2026-01-31
   - position: Visiting Researcher
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
