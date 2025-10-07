@@ -49,8 +49,8 @@ education:
     date_start: 2025-09-01
     date_end: ''
     summary: |
-      Full-ride National Scholarship and Stipend
-  - area: Bachelors Degree
+      Full-ride Scholarship and Research Stipend
+  - area: Bachelor's Degree
     institution: Yonsei University
     date_start: 2019-03-01
     date_end: 2025-06-01
