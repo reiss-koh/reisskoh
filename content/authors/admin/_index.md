@@ -151,7 +151,7 @@ awards:
 
 ## About Me
 
-👋 Hi! I am interested in pushing humanity's boundary. To this end, I am currently working on **Foundation Models** and **Agents**. I am perfectly bilingual in **English** and **Korean**. Feel free to check out my publications below.
+👋 Hi! I am interested in pushing humanity's boundary. To this end, I am currently working on **Foundation Models** and **Agents**. I am perfectly bilingual in English and Korean. Feel free to check out my publications below.
 
 <!-- My principal research interest is at the intersection of **Foundation Models** and **Agentic Behaviour**. **&#91;P1&#93;** I have recently worked on efficient and effective self-taught reasoning training. My past works make **&#91;C1&#93;** multi-agents more generalizable and significantly more reliable; and **&#91;W1&#93;** improves agents in noisy environments. I have also made an **&#91;C2&#93;** agentic framework for scalable LM-based chart generation (code and image), with robust improvements across 27B, 70B, and frontier-level LMs. 
 
