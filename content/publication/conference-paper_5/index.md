@@ -1,5 +1,5 @@
 ---
-title: "fgdggfd<br />Predicting LLM Reasoning Performance with Small Proxy Model"
+title: "Predicting LLM Reasoning Performance with Small Proxy Model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
