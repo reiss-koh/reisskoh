@@ -40,8 +40,8 @@ profiles:
 
 interests:
   - Foundation Models
-  - Efficient Learning and Models
   - Reasoning and Agents
+  - Efficient Learning and Models
 
 education:
   - area: Graduate Student
