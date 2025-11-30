@@ -48,8 +48,8 @@ education:
     institution: KAIST AI
     date_start: 2025-09-01
     date_end: ''
-    summary: |
-      Full-ride Scholarship and Research Stipend
+    # summary: |
+    #  Full-ride Scholarship and Research Stipend
   - area: Bachelor's Degree
     institution: Yonsei University
     date_start: 2019-03-01
