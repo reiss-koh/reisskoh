@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Intern
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Trillion Labs
-    url: https://trillionlabs.co/
+  - name: KAIST AI
+    url: https://osi.kaist.ac.kr
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -68,8 +68,8 @@ work:
     company_name: Trillion Labs
     company_url: 'https://trillionlabs.co/'
     company_logo: ''
-    date_start: 2025-06-01
-    date_end: ''
+    date_start: 2025-06-26
+    date_end: 2026-01-30
   - position: Visiting Researcher
     company_name: OSI Lab, KAIST AI
     company_url: 'https://osi.kaist.ac.kr/'
