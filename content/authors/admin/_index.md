@@ -151,9 +151,7 @@ awards:
 
 ## About Me 
 
-👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models** and **Agents**. Currently, I am primarily working on training a generative GUI world model for VLM agent training. Previously, I have worked on scaling pre-training, post-training, reasoning, agents, scalable feedback/evaluation, and inference-time scaling. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
-
-<!-- My principal research interest is at the intersection of **Foundation Models** and **Agentic Behaviour**. **&#91;P1&#93;** I have recently worked on efficient and effective self-taught reasoning training. My past works make **&#91;C1&#93;** multi-agents more generalizable and significantly more reliable; and **&#91;W1&#93;** improves agents in noisy environments. I have also made an **&#91;C2&#93;** agentic framework for scalable LM-based chart generation (code and image), with robust improvements across 27B, 70B, and frontier-level LMs. 
+👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models** and **Agents**. I am currently working on training a generative mobile GUI world model for VLM agents. Previously, I have worked on scaling pre-training, post-training, reasoning, agents, scalable feedback/evaluation, and inference-time scaling. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
 
 My current research topic revolves around: **(1)** LM pretraining, **(2)** LM reasoning, and **(3)** LM evaluation. Nevertheless, I am interested in a wide-range of open problems.
 
