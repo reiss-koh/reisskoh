@@ -152,9 +152,4 @@ awards:
 ## About Me 
 
 👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models** and **Agents**. I am currently working on training a generative mobile GUI world model for VLM agents. Previously, I have worked on scaling pre-training, post-training, reasoning, agents, scalable feedback/evaluation, and inference-time scaling. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
-
-My current research topic revolves around: **(1)** LM pretraining, **(2)** LM reasoning, and **(3)** LM evaluation. Nevertheless, I am interested in a wide-range of open problems.
-
-In the past, I worked on **&#91;J1&#93;** personalization and user-centric machine learning; and **&#91;W2&#93;** improving time-series representation learning under non-stationarity.
-
-I am perfectly bilingual in **English** and **Korean**. I love to chat about research and downstream impact; feel free to reach out via email 📧. -->
+📧. -->
