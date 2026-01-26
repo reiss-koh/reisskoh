@@ -5,7 +5,7 @@ title: "Predicting LLM Reasoning Performance with Small Proxy Model"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[P1] Woosung Koh"
+  - "[C4] Woosung Koh"
   - "Juyoung Suk"
   - "Sungjun Han"
   - "Se-Young Yun"
@@ -27,8 +27,8 @@ publishDate: '2025-08-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**Pre-print**"
-publication_short: "**Pre-print**"
+publication: "**ICLR 2026**"
+publication_short: "**ICLR 2026**"
 
 # Display this page in the Featured widget?
 featured: true
