@@ -38,11 +38,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2602.01576'
+url_code: 'https://github.com/trillion-labs/gWorld'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://trillionlabs-gworld.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
