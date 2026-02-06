@@ -2,9 +2,10 @@
 title: "Generative Visual Code Mobile World Models"
 
 tags:
-  - "Pre-training"
+  - "World Model"
+  - "Mobile GUI"
+  - "Code Generation"
   - "VLM"
-  - "Agents"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
