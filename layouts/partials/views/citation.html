@@ -4,31 +4,36 @@
 <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
-  {{/* 1. Authors */}}
+  {{/* 1. Authors (Period attached immediately to close the gap) */}}
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}
   </span>.
 
-  {{/* 2. Title - Italic only (Bold removed) */}}
+  {{/* 2. Title (Italicized Only) */}}
   <a href="{{ $item.RelPermalink }}"><em>{{ $item.Title }}</em></a>.
 
-  {{/* 3. Publication Name */}}
-  {{ if $item.Params.publication_short }}
-    {{ $item.Params.publication_short | markdownify }}
-  {{ else if $item.Params.publication }}
-    {{ $item.Params.publication | markdownify }}
-  {{ end }}
+  {{/* 3. Publication Name (Red Color) */}}
+  {{/* Change #d32f2f to any hex color you prefer */}}
+  <span style="color: #d32f2f;">
+    {{ if $item.Params.publication_short }}
+      {{ $item.Params.publication_short | markdownify }}
+    {{ else if $item.Params.publication }}
+      {{ $item.Params.publication | markdownify }}
+    {{ end }}
+  </span>
 
   {{/* 4. Links/Buttons & Tags Container */}}
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 5px;">
 
-    {{/* Links (PDF, Code, etc.) */}}
+    {{/* Standard Buttons (PDF, Code, etc.) */}}
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
 
-    {{/* 5. TAGS */}}
+    {{/* 5. Custom Tags */}}
     {{ if $item.Params.tags }}
+      {{/* Small separator line */}}
       <span style="border-left: 1px solid #ddd; height: 15px; margin: 0 5px;"></span>
 
+      {{/* Loop through tags */}}
       {{ range $item.Params.tags }}
         <span style="
           font-size: 0.7rem;
