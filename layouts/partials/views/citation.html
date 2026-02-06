@@ -9,8 +9,8 @@
     {{ partial "page_metadata_authors" $item }}
   </span>.
 
-  {{/* 2. Title (Italicized) */}}
-  <a href="{{ $item.RelPermalink }}" style="font-weight: bold;"><em>{{ $item.Title }}</em></a>.
+  {{/* 2. Title - Italic only (Bold removed) */}}
+  <a href="{{ $item.RelPermalink }}"><em>{{ $item.Title }}</em></a>.
 
   {{/* 3. Publication Name */}}
   {{ if $item.Params.publication_short }}
@@ -25,9 +25,11 @@
     {{/* Links (PDF, Code, etc.) */}}
     {{ partial "page_links" (dict "page" $item "is_list" 1) }}
 
-    {{/* 5. NEW: TAGS */}}
+    {{/* 5. TAGS */}}
     {{ if $item.Params.tags }}
-      <span style="border-left: 1px solid #ddd; height: 15px; margin: 0 5px;"></span> {{ range $item.Params.tags }}
+      <span style="border-left: 1px solid #ddd; height: 15px; margin: 0 5px;"></span>
+
+      {{ range $item.Params.tags }}
         <span style="
           font-size: 0.7rem;
           font-family: sans-serif;
