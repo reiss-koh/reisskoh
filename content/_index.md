@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
     design:
-      css_class: dark
+      css_class: ""
       background:
         color: black
         image:
@@ -37,17 +37,4 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # - block: markdown
-  #   content:
-  #     title: 'Mentees'
-  #     subtitle: ''
-  #     text: |
-  #       <small>
-  #         <ul>
-  #           <li>MinHyung Lee ⟶ Research Intern, DAVIAN Lab, KAIST AI</li>
-  #           <li>Hyeongjin Kim ⟶ Intern (Advanced Research), Hyundai Mobis ⟶ Research Intern, HOLI Lab, SNU</li>
-  #         </ul>
-  #       </small>
-  #   design:
-  #     columns: '1'
 ---
