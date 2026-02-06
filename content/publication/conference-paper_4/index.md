@@ -3,7 +3,7 @@ title: "AdaSTaR: Adaptive Data Sampling for Training Self-Taught Reasoners"
 
 tags:
   - "Post-training"
-  - "Reasoning, Training Efficiency"
+  - "Reasoning"
   - "Data Sampling"
   - "Training Efficiency"
 
