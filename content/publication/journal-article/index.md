@@ -5,9 +5,9 @@ authors:
 - Woosung Koh*
 - Bonwoo Koo*
 - Woo Chang Kim
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2024-01-01T00:00:00Z"
 doi: ""
 
@@ -20,8 +20,8 @@ publishDate: "2024-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Engineering Applications of Artificial Intelligence** (SCIE, Q1)"
-publication_short: "**Engineering Applications of Artificial Intelligence** (SCIE, Q1)"
+publication: "**Engineering Applications of Artificial Intelligence (SCIE, Q1)**"
+publication_short: "**Engineering Applications of Artificial Intelligence (SCIE, Q1)**"
 
 tags:
 - Source Themes
