@@ -5,7 +5,7 @@ tags:
   - "Chart Generation"
   - "Code Generation"
   - "VLM-as-a-Judge"
-  - "Scalable Feedback"
+  - "Inference-time Scaling"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
