@@ -18,7 +18,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
           filename: 
@@ -31,6 +31,8 @@ sections:
     content:
       title: Publications
       text: "*Equal contribution"
+      # Add this line below to show ALL papers:
+      count: 0
       filters:
         folders:
           - publication
