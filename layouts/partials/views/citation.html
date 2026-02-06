@@ -3,10 +3,8 @@
 
 <div class="pub-list-item" style="margin-bottom: 1rem">
 
-  {{/* 1. Authors */}}
-  <span class="article-metadata li-cite-author">
-    {{ partial "page_metadata_authors" $item }}
-  </span>.
+  {{/* 1. Authors - STRICT NO-SPACE FIX: Kept on one line */}}
+  <span class="article-metadata li-cite-author">{{ partial "page_metadata_authors" $item }}</span>.
 
   {{/* 2. Title (Italicized) */}}
   <a href="{{ $item.RelPermalink }}"><em>{{ $item.Title }}</em></a>.
@@ -23,8 +21,7 @@
   {{/* 4. Links & Tags Container */}}
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 5px;">
 
-    {{/* --- LIGHTER BLUE TEXT LINKS --- */}}
-    {{/* Changed to #3399ff which is readable on both black and white */}}
+    {{/* --- LIGHTER BLUE TEXT LINKS (#3399ff) --- */}}
 
     {{/* PDF Link */}}
     {{ if $item.Params.url_pdf }}
