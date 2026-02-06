@@ -5,6 +5,7 @@ authors:
 - Woosung Koh*
 - Bonwoo Koo*
 - Woo Chang Kim
+
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -23,8 +24,6 @@ publication_types: ["article-journal"]
 publication: "**Engineering Applications of Artificial Intelligence (SCIE, Q1)**"
 publication_short: "**Engineering Applications of Artificial Intelligence (SCIE, Q1)**"
 
-tags:
-- Source Themes
 featured: false
 
 # links:
