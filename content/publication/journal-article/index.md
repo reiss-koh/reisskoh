@@ -6,9 +6,10 @@ authors:
 - Bonwoo Koo*
 - Woo Chang Kim
 
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+tags:
+  - "Explainable AI"
+  - "Personalized AI"
+
 date: "2024-01-01T00:00:00Z"
 doi: ""
 

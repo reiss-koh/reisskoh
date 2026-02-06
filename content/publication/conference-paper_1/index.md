@@ -1,6 +1,10 @@
 ---
 title: 'Encoding Temporal Statistical-space Priors via Augmented Representation'
 
+tags:
+  - "Spatio-temporal Prediction"
+  - "Financial Markets"
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -10,11 +14,6 @@ authors:
   - Gimin Kang
   - Yuntae Jang
   - Woo Chang Kim
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2024-03-01T00:00:00Z'
 doi: ''
