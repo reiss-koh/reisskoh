@@ -1,0 +1,152 @@
+{{/* Hugo Blox: Resume Biography 3 (High-Res Avatar Fix) */}}
+{{ $page := .page }}
+{{ $block := .block }}
+
+{{ $author := "" }}
+{{ if .content.username }}
+  {{ $author = site.GetPage (printf "authors/%s" .content.username) }}
+{{ else }}
+  {{ $author = $page }}
+{{ end }}
+
+{{ $person := $author.Params }}
+{{ $avatar := ($author.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := $block.design.avatar.shape | default "circle" }}
+
+<div class="flex flex-col items-center max-w-5xl mx-auto pt-16 sm:pt-24 lg:pt-32">
+
+  {{ if $avatar }}
+    {{/* FIX: Changed standard resize from 150x150 to 500x500 for Retina Quality */}}
+    {{ $avatar_image := $avatar.Fill "500x500 Center" }}
+
+    <div class="mx-auto w-48 h-48 relative mb-8"> <img
+        class="w-full h-full object-cover {{if eq $avatar_shape "square"}}rounded-md{{else}}rounded-full{{end}} shadow-lg ring-2 ring-gray-100 dark:ring-gray-800"
+        src="{{ $avatar_image.RelPermalink }}"
+        alt="{{ $author.Title }}"
+        loading="eager"
+      />
+
+      {{/* Status Emoji (Optional) */}}
+      {{ with $person.status.icon }}
+        <span class="absolute bottom-2 right-2 bg-white dark:bg-gray-900 border-2 border-white dark:border-gray-800 rounded-full w-8 h-8 flex items-center justify-center text-lg shadow-sm">
+          {{ . | emojify }}
+        </span>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  <div class="text-center px-4">
+    <h1 class="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100 sm:text-5xl mb-4">
+      {{ $author.Title }}
+    </h1>
+
+    {{ with $person.role }}
+      <p class="text-lg text-slate-600 dark:text-slate-400 mb-2">
+        {{ . | markdownify | emojify }}
+      </p>
+    {{ end }}
+
+    {{ with $person.organizations }}
+      <p class="text-base text-slate-500 dark:text-slate-500 mb-6">
+        {{ range $index, $item := . }}
+          {{ if $index }}<span class="mx-2">·</span>{{ end }}
+          <span>{{ .name }}</span>
+        {{ end }}
+      </p>
+    {{ end }}
+
+    {{ if $person.social }}
+      <div class="flex justify-center space-x-4 mb-12">
+        {{ range $person.social }}
+          {{ $pack := or .icon_pack "fas" }}
+          {{ $pack_prefix := $pack }}
+          {{ if in (slice "fab" "fas" "far" "fal") $pack }}
+            {{ $pack_prefix = "fa" }}
+          {{ end }}
+          {{ $link := .link }}
+          {{ $scheme := (urls.Parse $link).Scheme }}
+          {{ $target := "" }}
+          {{ if not $scheme }}
+            {{ $link = .link | relLangURL }}
+          {{ else if in (slice "http" "https") $scheme }}
+            {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
+          {{ end }}
+
+          <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }} class="text-2xl text-slate-400 hover:text-slate-900 dark:hover:text-slate-100 transition-colors duration-200" aria-label="{{ .icon }}">
+            <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
+  </div>
+
+  {{ if $person.bio }}
+  <div class="prose prose-slate dark:prose-invert max-w-none text-center px-4 mb-16">
+    {{ $person.bio | markdownify | emojify }}
+  </div>
+  {{ end }}
+
+  {{ if .content.button.text }}
+    <div class="flex justify-center mb-16">
+      <a class="inline-flex items-center justify-center rounded-full bg-slate-900 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-slate-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-slate-900 dark:bg-slate-100 dark:text-slate-900 dark:hover:bg-slate-300"
+         href="{{ .content.button.url | relURL }}">
+        {{ .content.button.text }}
+      </a>
+    </div>
+  {{ end }}
+
+</div>
+
+<div class="mx-auto max-w-7xl px-6 lg:px-8 pb-24">
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16">
+
+    <div class="lg:col-span-2">
+      <div class="prose prose-slate dark:prose-invert max-w-none">
+        {{/* Use the content from _index.md section */}}
+        {{ .content.text | emojify | markdownify }}
+
+        {{/* If empty, use author profile content */}}
+        {{ if not .content.text }}
+          {{ $author.Content }}
+        {{ end }}
+      </div>
+    </div>
+
+    {{ with $person.interests }}
+    <div>
+      <h3 class="text-2xl font-bold tracking-tight text-slate-900 dark:text-slate-100 mb-6">Interests</h3>
+      <ul class="space-y-3 pl-0 list-none">
+        {{ range . }}
+        <li class="flex items-start">
+          <svg class="h-6 w-6 flex-shrink-0 text-slate-500 dark:text-slate-400 mr-3" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 001.5-.189m-1.5.189a6.01 6.01 0 01-1.5-.189m3.75 7.478a12.06 12.06 0 01-4.5 0m4.5 0a12.06 12.06 0 01-4.5 0m9-1.5c0 .53-.04 1.06-.113 1.568a12.06 12.06 0 01-3.387 7.02c-2.333 1.35-5.32 1.35-7.654 0a12.06 12.06 0 01-3.376-7.02A11.97 11.97 0 013 9.75c0-1.85.456-3.606 1.284-5.186.721-1.373 1.706-2.583 2.87-3.568a12.046 12.046 0 014.155-2.128c1.615-.465 3.32-.465 4.935 0a12.045 12.045 0 014.155 2.128c1.164.985 2.148 2.195 2.87 3.568.828 1.58 1.284 3.336 1.284 5.186z" />
+          </svg>
+          <span class="text-lg text-slate-700 dark:text-slate-300">{{ . | markdownify | emojify }}</span>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+    {{ with $person.education }}
+    <div>
+      <h3 class="text-2xl font-bold tracking-tight text-slate-900 dark:text-slate-100 mb-6">Education</h3>
+      <ul class="space-y-8 pl-0 list-none">
+        {{ range .courses }}
+        <li class="relative pl-10">
+          <div class="absolute left-0 top-1">
+            <svg class="h-6 w-6 text-slate-500 dark:text-slate-400" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.499 5.24 50.552 50.552 0 00-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5zm0 0v-3.675A55.378 55.378 0 0112 8.443m-7.007 11.55A5.981 5.981 0 006.75 15.75v-1.5" />
+            </svg>
+          </div>
+          <div class="font-semibold text-lg text-slate-900 dark:text-slate-100">{{ .course }}</div>
+          <div class="text-slate-500 dark:text-slate-400">{{ .institution }}</div>
+          {{ if .year }}<div class="text-sm text-slate-400 dark:text-slate-500 mt-1">{{ .year }}</div>{{ end }}
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+
+  </div>
+</div>
