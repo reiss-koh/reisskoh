@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -30,7 +30,7 @@ sections:
   - block: collection
     content:
       title: Publications
-      text: "*Equal contribution"
+#      text: "*Equal contribution"
       # Add this line below to show ALL papers:
       count: 0
       filters:
