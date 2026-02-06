@@ -39,4 +39,5 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing: "1rem"
 ---
