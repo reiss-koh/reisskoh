@@ -1,21 +1,18 @@
-{{ $item := .item }}
+1{{ $item := .item }}
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
-  {{/* 1. Authors */}}
+  {{/* 1. Authors - Note: The period (.) is now touching the </span> tag to fix the space issue */}}
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" $item }}
-  </span>
-  {{/* Punctuation Logic: Add a period after authors if the date is gone */}}
-  . 
+  </span>.
 
   {{/* 2. DATE REMOVED */}}
-  {{/* The default theme code usually puts ({{ $item.Date.Format "2006" }}) here. I have deleted it. */}}
 
-  {{/* 3. Title */}}
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.
+  {{/* 3. Title - Added <em> for Italics */}}
+  <a href="{{ $item.RelPermalink }}" style="font-weight: bold;"><em>{{ $item.Title }}</em></a>.
 
   {{/* 4. Publication Name */}}
   {{ if $item.Params.publication_short }}
