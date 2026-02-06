@@ -29,8 +29,8 @@ doi: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)"
-publication_short: "AAAI 2024 AI4TS Workshop (**Oral**) (Top 27% of Accepted Papers)"
+publication: "**AAAI 2024 AI4TS Workshop (Oral)**"
+publication_short: "**AAAI 2024 AI4TS Workshop (Oral)**"
 
 # Display this page in the Featured widget?
 featured: true
