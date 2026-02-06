@@ -23,38 +23,39 @@
   {{/* 4. Links & Tags Container */}}
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 5px;">
 
-    {{/* --- TEXT-ONLY LINKS (No Icons) --- */}}
+    {{/* --- BLUE TEXT LINKS --- */}}
+    {{/* I changed color: #000 to color: #0056b3 (Standard Blue) */}}
 
     {{/* PDF Link */}}
     {{ if $item.Params.url_pdf }}
-      <a href="{{ $item.Params.url_pdf }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #000; text-decoration: none;">
+      <a href="{{ $item.Params.url_pdf }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #0056b3; text-decoration: none;">
         PDF
       </a>
     {{ end }}
 
     {{/* Code Link */}}
     {{ if $item.Params.url_code }}
-      <a href="{{ $item.Params.url_code }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #000; text-decoration: none;">
+      <a href="{{ $item.Params.url_code }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #0056b3; text-decoration: none;">
         CODE
       </a>
     {{ end }}
 
     {{/* Project Link */}}
     {{ if $item.Params.url_project }}
-      <a href="{{ $item.Params.url_project }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #000; text-decoration: none;">
+      <a href="{{ $item.Params.url_project }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #0056b3; text-decoration: none;">
         PROJECT
       </a>
     {{ end }}
 
     {{/* Video Link */}}
     {{ if $item.Params.url_video }}
-      <a href="{{ $item.Params.url_video }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #000; text-decoration: none;">
+      <a href="{{ $item.Params.url_video }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #0056b3; text-decoration: none;">
         VIDEO
       </a>
     {{ end }}
 
 
-    {{/* 5. Separator & Tags */}}
+    {{/* 5. Separator & Tags (Kept Black) */}}
     {{ if $item.Params.tags }}
       {{/* Vertical Divider Line */}}
       <span style="border-left: 1px solid #ccc; height: 14px; margin: 0 2px;"></span>
