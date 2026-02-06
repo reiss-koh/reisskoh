@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Reiss Koh
+title: Woosung (Reiss) Koh
 
 # Name pronunciation (optional)
 name_pronunciation: 
