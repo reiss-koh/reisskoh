@@ -9,7 +9,7 @@
     {{ partial "page_metadata_authors" $item }}
   </span>.
 
-  {{/* 2. Title (Italicized Only) */}}
+  {{/* 2. Title */}}
   <a href="{{ $item.RelPermalink }}"><em>{{ $item.Title }}</em></a>.
 
   {{/* 3. Publication Name (Red) */}}
@@ -21,13 +21,44 @@
     {{ end }}
   </span>
 
-  {{/* 4. Links/Buttons & Tags Container */}}
-  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 5px;">
+  {{/* 4. Links & Tags Container */}}
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin-top: 5px;">
 
-    {{/* Links */}}
-    {{ partial "page_links" (dict "page" $item "is_list" 1) }}
+    {{/* --- MANUAL LINKS SECTION START --- */}}
+    {{/* This replaces 'page_links' so we can force icons on everything */}}
 
-    {{/* 5. Tags (Fixed: Black Text + No Uppercase) */}}
+    {{/* PDF Link */}}
+    {{ if $item.Params.url_pdf }}
+      <a href="{{ $item.Params.url_pdf }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold;">
+        <i class="far fa-file-pdf" style="margin-right: 3px;"></i>PDF
+      </a>
+    {{ end }}
+
+    {{/* Code Link */}}
+    {{ if $item.Params.url_code }}
+      <a href="{{ $item.Params.url_code }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-code" style="margin-right: 3px;"></i>CODE
+      </a>
+    {{ end }}
+
+    {{/* Project Link (NOW WITH ICON) */}}
+    {{ if $item.Params.url_project }}
+      <a href="{{ $item.Params.url_project }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-globe" style="margin-right: 3px;"></i>PROJECT
+      </a>
+    {{ end }}
+
+    {{/* Video Link */}}
+    {{ if $item.Params.url_video }}
+      <a href="{{ $item.Params.url_video }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-video" style="margin-right: 3px;"></i>VIDEO
+      </a>
+    {{ end }}
+
+    {{/* --- MANUAL LINKS SECTION END --- */}}
+
+
+    {{/* 5. Tags (Black, No Caps) */}}
     {{ if $item.Params.tags }}
       <span style="border-left: 1px solid #ddd; height: 15px; margin: 0 5px;"></span>
 
@@ -36,11 +67,10 @@
           font-size: 0.75rem;
           font-family: sans-serif;
           background-color: #f1f3f5;
-          color: #000000;             /* Changed to PURE BLACK */
+          color: #000000;
           padding: 2px 6px;
           border-radius: 4px;
           border: 1px solid #dee2e6;
-          /* text-transform: uppercase;  <-- REMOVED THIS LINE */
           letter-spacing: 0.2px;">
           {{ . }}
         </span>
