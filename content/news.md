@@ -15,7 +15,23 @@ commentable: false     # Prevents comment section from appearing
 </div>
 
 <style>
-  .article-metadata, .share-box, .pager {
+  /* Hides the date/read-time at the top */
+  .article-metadata {
+    display: none !important;
+  }
+  
+  /* Hides the social share buttons */
+  .share-box {
+    display: none !important;
+  }
+  
+  /* Hides the bottom navigation arrows (Pagers) */
+  .pager, .pagination, .article-widget, .section-heading {
+    display: none !important;
+  }
+  
+  /* Hides the specific "See All Projects" link often found at the bottom */
+  .see-all {
     display: none !important;
   }
 </style>
