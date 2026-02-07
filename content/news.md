@@ -8,11 +8,12 @@ commentable: false     # Prevents comment section from appearing
 
 <div style="font-size: 0.9rem;">
 
-* **[2026.02]** **gWorld** is in the front page of HuggingFace Daily Papers and r/LocalLLaMA! 🤗
-  * 218 likes and 44 comments in 2 days (r/LocalLLaMA)
+* **[2026.02]** **gWorld** is on the front page of HuggingFace Daily Papers and r/LocalLLaMA! 🤗
 * **[2026.01]** **rBridge** has been accepted to **ICLR 2026**! 🎉
+* **[2025.12]** Attending **NeurIPS 2025** with the **Scholar Award** in San Diego. 🏖️
 * **[2025.10]** **rBridge** is covered by over 10 news outlets for **>100&times;** efficiency in scaling pre-training recipes! 📰
-* **[2025.12]** Attending **NeurIPS 2025** with **Scholar Award** in San Diego. 🏖️
+* **[2025.10]** **rBridge** is on the front page of r/LocalLLaMA! 🔥
+
 
 </div>
 
