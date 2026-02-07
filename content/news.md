@@ -8,10 +8,11 @@ commentable: false     # Prevents comment section from appearing
 
 <div style="font-size: 0.9rem;">
 
-* **[2026.02]** **gWorld** is in the front page of [HuggingFace Daily Papers](https://huggingface.co/papers) and [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/)! 🎊* **[2026.01]** **rBridge** has been accepted to **ICLR 2026**! 🎉
+* **[2026.02]** **gWorld** is in the front page of [HuggingFace Daily Papers](https://huggingface.co/papers/2602.01576) and [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qwo9j0/we_built_an_8b_world_model_that_beats_402b_llama/)! 🎊
+* **[2026.01]** **rBridge** has been accepted to **ICLR 2026**! 🎉
 * **[2025.12]** Attending **NeurIPS 2025** with the **Scholar Award** in San Diego. 🏖️
-* **[2025.10]** **rBridge** is covered by over 10 news outlets for **>100&times;** efficiency in scaling pre-training recipes! 📰
-* **[2025.10]** **rBridge** is on the front page of r/LocalLLaMA! 🔥
+* **[2025.10]** **rBridge** is covered by over 10 [news outlets](https://koreatechdesk.com/korea-trillion-labs-rbridge-ai-cost-efficiency-breakthrough) for **>100&times;** efficiency in scaling pre-training recipes! 📰
+* **[2025.10]** **rBridge** is on the front page of [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1od0jw1/r_we_figured_out_how_to_predict_32b_model/)! 🔥
 * **[2026.01]** **rBridge** has been accepted to **ICLR 2026**! 🎉
 
 </div>
