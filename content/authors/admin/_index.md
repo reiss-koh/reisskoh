@@ -151,5 +151,5 @@ awards:
 
 ## About Me 
 
-👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models** and **Agents**. I have worked on scaling pre-training, post-training, reasoning, agents, scalable feedback/evaluation, and inference-time scaling. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
+👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models** and **Agents**. I have worked on scaling pre-training, post-training, reasoning, agents, feedback/evaluation, and inference-time scaling. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
 
