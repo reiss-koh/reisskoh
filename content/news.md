@@ -15,6 +15,7 @@ commentable: false     # Prevents comment section from appearing
 * **[2025.10]** [**rBridge**](https://arxiv.org/pdf/2509.21013) is covered by over 10 [news outlets](https://koreatechdesk.com/korea-trillion-labs-rbridge-ai-cost-efficiency-breakthrough) for **>100&times;** efficiency in scaling pre-training recipes! 📰
 * **[2025.10]** [**rBridge**](https://arxiv.org/pdf/2509.21013) is on the front page of [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1od0jw1/r_we_figured_out_how_to_predict_32b_model/)! 🔥
 * **[2025.09]** [**AdaSTaR**](https://arxiv.org/pdf/2505.16322) has been accepted to **NeurIPS 2025**! 🎉
+* **[2025.04]** Joined [Trillion Labs](https://trillionlabs.co/) as a Research Intern. 🏜️
 * **[2025.04]** Presenting at **NAACL 2025** in Albuquerque. 🏜️
 * **[2025.04]** Presenting at **ICLR 2025** in Singapore. 🌞
 * **[2025.01]** [**C^2**](https://chartsquared.github.io) has been accepted to **NAACL 2025** as an **Oral** presentation! 🎉
