@@ -37,6 +37,8 @@ profiles:
     url: https://github.com/reiss-koh
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=I8j9BBwAAAAJ&hl=en
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/reisskoh/
 
 interests:
   - Foundation Models
