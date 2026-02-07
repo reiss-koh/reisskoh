@@ -20,7 +20,7 @@ commentable: false     # Prevents comment section from appearing
 * **[2025.01]** [**C^2**](https://chartsquared.github.io) has been accepted to **NAACL 2025** as an **Oral** presentation! 🎉
 * **[2025.01]** [**FlickerFusion**](https://flickerfusion305.github.io) has been accepted to **ICLR 2025**! 🎉
 * **[2024.02]** Presenting at **AAAI 2024 Workshop** in Vancouver. 🍁
-* **[2025.01]** Our [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0952197623015622) has been accepted to **Engineering Applications of Artificial Intelligence**! 🎉
+* **[2024.01]** Our [**paper**](https://www.sciencedirect.com/science/article/abs/pii/S0952197623015622) has been accepted to **Engineering Applications of Artificial Intelligence**! 🎉
 </div>
 
 <style>
