@@ -8,9 +8,10 @@ commentable: false     # Prevents comment section from appearing
 
 <div style="font-size: 0.9rem;">
 
-* **Feb 2026:** My paper **"rBridge"** has been accepted to **ICLR 2026**! 🎉
-* **Jan 2026:** Submitted a paper on GUI world models.
-* **Dec 2025:** Attended **NeurIPS 2025** in San Diego.
+* **2026.02:** **gWorld** is in the front page of HuggingFace Daily Papers and r/LocalLLaMA! 🤗
+* **2026.01:** **rBridge** has been accepted to **ICLR 2026**! 🎉
+* **2025.10:** **rBridge** is covered by over 10 news outlets for **>100&times;** efficiency in scaling pre-training recipes! 📰
+* **2025.12:** Attending **NeurIPS 2025** in San Diego. 🏖️
 
 </div>
 
