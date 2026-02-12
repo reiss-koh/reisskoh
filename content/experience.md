@@ -24,7 +24,7 @@ sections:
       subtitle: ''
       text: |-
           <small> 
-          <strong>[Reviewer]</strong> KDD (Research Track) 2025, ICLR 2026, ICML 2026</small>
+          <strong>[Reviewer]</strong> KDD (Research Track) 2025, ICLR 2026, ICML 2026, ACL 2026</small>
 
     design:
       columns: '1'
