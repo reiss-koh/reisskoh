@@ -46,7 +46,7 @@ featured: true
 
 url_pdf: 'https://arxiv.org/pdf/2509.21013'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://huggingface.co/datasets/trillionlabs/rBridge'
 url_poster: ''
 url_project: ''
 url_slides: ''
