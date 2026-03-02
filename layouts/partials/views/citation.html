@@ -37,6 +37,13 @@
       </a>
     {{ end }}
 
+    {{/* Dataset Link */}}
+    {{ if $item.Params.url_dataset }}
+      <a href="{{ $item.Params.url_dataset }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #3399ff; text-decoration: none;">
+        DATASET
+      </a>
+    {{ end }}
+
     {{/* Project Link */}}
     {{ if $item.Params.url_project }}
       <a href="{{ $item.Params.url_project }}" target="_blank" rel="noopener" style="font-size: 0.8rem; font-weight: bold; color: #3399ff; text-decoration: none;">
