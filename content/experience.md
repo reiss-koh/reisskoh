@@ -26,6 +26,8 @@ sections:
           <small> 
           <strong>[Reviewer]</strong> KDD (Research Track) 2025, ICLR 2026, ICML 2026, ACL 2026</small>
 
+          <strong>[Lab Service]</strong> Server Manager (8 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
+
     design:
       columns: '1'
   - block: resume-awards
