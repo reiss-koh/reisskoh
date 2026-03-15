@@ -24,7 +24,10 @@ sections:
       subtitle: ''
       text: |-
           <small> 
-          <strong>[Reviewer]</strong> KDD (Research Track) 2025, ICLR 2026, ICML 2026, ACL 2026</small>
+          <strong>[2026 Reviewer]</strong> ICLR, ICML, ACL ARR (January, March)</small>
+          <br>
+          <small> 
+          <strong>[2025 Reviewer]</strong> KDD (Research Track)</small>
           <br>
           <small>
           <strong>[Lab Service]</strong> Server Manager (8 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
