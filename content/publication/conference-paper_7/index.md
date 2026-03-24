@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2603.21606'
+url_code: 'https://github.com/reiss-koh/msft'
 url_dataset: ''
 url_poster: ''
 url_project: ''
