@@ -34,8 +34,8 @@ publishDate: '2026-01-06T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "**Pre-print**"
-publication_short: "**Pre-print**"
+publication: "**ICML 2026**"
+publication_short: "**ICML 2026**"
 
 # Display this page in the Featured widget?
 featured: true
