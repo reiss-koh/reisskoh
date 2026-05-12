@@ -8,7 +8,7 @@ commentable: false     # Prevents comment section from appearing
 
 <div style="font-size: 0.9rem;">
 
-* **[2026.05]** Expecting to join **Amazon (Bellevue, WA)** as an Applied Scientist Intern! ⛰️
+* **[2026.05]** Received an Applied Scientist Intern offer from **Amazon (Bellevue, WA)**. ⛰️
 * **[2026.05]** [**gWorld**](https://trillionlabs-gworld.github.io/) has been accepted to **ICML 2026**! 🎉
 * **[2026.02]** [**gWorld**](https://trillionlabs-gworld.github.io) featured in over 10 [news outlets](https://www.mk.co.kr/en/it/11957309) as the first open-weight visual mobile GUI world model, outperforming models up to **50.25&times;** in size! 📰
 * **[2026.02]** [**gWorld**](https://trillionlabs-gworld.github.io) is on the front page of [HuggingFace Daily Papers](https://huggingface.co/papers/2602.01576) and [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qwo9j0/we_built_an_8b_world_model_that_beats_402b_llama/)! 🤗
