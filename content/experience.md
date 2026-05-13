@@ -24,7 +24,7 @@ sections:
       subtitle: ''
       text: |-
           <small> 
-          <strong>[2026 Reviewer]</strong> ICLR, ICML, ACL ARR (January), NeurIPS</small>
+          <strong>[2026 Reviewer]</strong> ICLR, ICML, ACL ARR (January), NeurIPS, COLM</small>
           <br>
           <small> 
           <strong>[2025 Reviewer]</strong> KDD (Research Track)</small>
