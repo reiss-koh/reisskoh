@@ -8,6 +8,7 @@ commentable: false     # Prevents comment section from appearing
 
 <div style="font-size: 0.9rem;">
 
+* **[2026.05]** Received **Silver Reviewer Award** from **ICML 2026**. 🥈
 * **[2026.05]** Received an Applied Scientist Intern offer from **Amazon (Bellevue, WA)**. ⛰️
 * **[2026.05]** [**gWorld**](https://trillionlabs-gworld.github.io/) has been accepted to **ICML 2026**! 🎉
 * **[2026.02]** [**gWorld**](https://trillionlabs-gworld.github.io) featured in over 10 [news outlets](https://www.mk.co.kr/en/it/11957309) as the first open-weight visual mobile GUI world model, outperforming models up to **50.25&times;** in size! 📰

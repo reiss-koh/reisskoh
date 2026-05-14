@@ -100,6 +100,9 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Silver Reviewer Award
+    date: '2026-05-14'
+    awarder: ICML 2026
   - title: NeurIPS 2025 Scholar Award
     date: '2025-10-01'
     awarder: 
