@@ -30,7 +30,7 @@ sections:
           <strong>[2025 Reviewer]</strong> KDD (Research Track)</small>
           <br>
           <small>
-          <strong>[Lab Service]</strong> Server Manager (8 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
+          <strong>[Lab Service]</strong> Server Manager (9 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
 
     design:
       columns: '1'
