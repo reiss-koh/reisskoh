@@ -41,9 +41,9 @@ profiles:
     url: https://www.linkedin.com/in/reisskoh/
 
 interests:
-  - Foundation Models
   - Reasoning and Agents
   - Efficient Learning and Models
+  - Multi-modality
 
 education:
   - area: Graduate Student
@@ -103,9 +103,9 @@ awards:
   - title: Silver Reviewer Award
     date: '2026-05-14'
     awarder: ICML 2026
-  - title: NeurIPS 2025 Scholar Award
+  - title: Scholar Award
     date: '2025-10-01'
-    awarder: 
+    awarder: NeurIPS 2025
   - title: 27th Merit-based Tuition Scholarship
     date: '2023-01-01'
     awarder: Welcome Finance Group
@@ -154,5 +154,4 @@ awards:
 
 ## About Me 
 
-👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models** and **Agents**. My work has spanned scaling pre-training, post-training, reasoning, agents, feedback/evaluation, and inference-time scaling. I am currently working on efficient long-context modeling, while remaining broadly interested in high-impact problems. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
-
+👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models (LLMs, VLMs)** and **Agents**. My work has spanned scaling pre-training, post-training, reasoning, agents, feedback/evaluation, and inference-time scaling. I am currently working on efficient long-context modeling, while remaining broadly interested in high-impact problems. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
