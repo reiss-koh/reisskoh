@@ -67,7 +67,7 @@ work:
   - position: Applied Scientist (L5) Intern
     company_name: AWS AI Labs, Amazon (Bellevue)
     company_url: 'www.amazon.science'
-    company_logo: ''
+    company_logo: 'amazonscience.svg'
     date_start: 2026-09-01
     date_end: 2026-12-18
   - position: Research Scientist Intern
