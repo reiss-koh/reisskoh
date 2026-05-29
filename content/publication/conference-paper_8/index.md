@@ -10,7 +10,7 @@ tags:
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[P2] Namgyu Ho*, Huzama Ahmad*, Woosung Koh*, Se-Young Yun, Tal Schuster, Cicero Nogueira dos Santos"
+  - "[P2] Namgyu Ho*, Huzama Ahmad*, Woosung Koh*, Se-Young Yun, Tal Schuster, dos"
 
 # Author notes (optional)
 # author_notes:
