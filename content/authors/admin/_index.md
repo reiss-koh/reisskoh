@@ -67,11 +67,9 @@ work:
   - position: Applied Scientist (L5) Intern
     company_name: AWS AI Labs, Amazon (Bellevue)
     company_url: 'www.amazon.science'
-    company_logo: 'amazonscience.svg'
+    company_logo: ''
     date_start: 2026-09-01
     date_end: 2026-12-18
-    icon: amazon
-    icon_pack: fab
   - position: Research Scientist Intern
     company_name: Superintelligence Lab, LG AI Research
     company_url: 'https://www.lgresearch.ai'
