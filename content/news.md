@@ -8,7 +8,7 @@ commentable: false     # Prevents comment section from appearing
 
 <div style="font-size: 0.9rem;">
 
-* **[2026.06]** [**gWorld**](https://trillionlabs-gworld.github.io/) cited by Qwen-AgentWorld and surpasses 9K total downloads (including community quantized ver.)! 🌐
+* **[2026.06]** [**gWorld**](https://trillionlabs-gworld.github.io/) cited by [**Qwen-AgentWorld**](https://arxiv.org/pdf/2606.24597), and surpasses **9K** total downloads (including community quantized ver.)! 🌐
 * **[2026.05]** Accepted offer joining **LG AI Research, Superintelligence Lab** as a Research Scientist Intern this summer. ☀️
 * **[2026.05]** Received **Silver Reviewer Award** from **ICML 2026**. 🥈
 * **[2026.05]** Accepted offer joining **Amazon (Bellevue)** as an Applied Scientist (L5) Intern this fall. ⛰️
