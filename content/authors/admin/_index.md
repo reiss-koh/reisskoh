@@ -46,7 +46,7 @@ interests:
   - Multi-modality
 
 education:
-  - area: Graduate Student
+  - area: PhD Student
     institution: KAIST AI
     date_start: 2025-09-01
     date_end: ''
