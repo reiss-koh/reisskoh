@@ -12,7 +12,7 @@ commentable: false     # Prevents comment section from appearing
 * **[2026.06]** [**gWorld**](https://trillionlabs-gworld.github.io/) cited and adopted by [**Qwen-AgentWorld**](https://arxiv.org/pdf/2606.24597), and surpasses **9K** total downloads (including community quantized versions)! 🌐
 * **[2026.05]** Accepted offer joining **LG AI Research, Superintelligence Lab** as a Research Scientist Intern this summer. ☀️
 * **[2026.05]** Received **Silver Reviewer Award** from **ICML 2026**. 🥈
-* **[2026.05]** Accepted offer joining **Amazon (Bellevue)** as an Applied Scientist (L5) Intern this fall. ⛰️
+* **[2026.05]** Accepted offer joining **Amazon AGI (Bellevue)** as an Applied Scientist (L5) Intern this fall. ⛰️
 * **[2026.05]** [**gWorld**](https://trillionlabs-gworld.github.io/) has been accepted to **ICML 2026**! 🎉
 * **[2026.02]** [**gWorld**](https://trillionlabs-gworld.github.io) featured in over 10 [news outlets](https://www.mk.co.kr/en/it/11957309) as the first open-weight visual mobile GUI world model, outperforming models up to **50.25&times;** in size! 📰
 * **[2026.02]** [**gWorld**](https://trillionlabs-gworld.github.io) is on the front page of [HuggingFace Daily Papers](https://huggingface.co/papers/2602.01576) and [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1qwo9j0/we_built_an_8b_world_model_that_beats_402b_llama/)! 🤗
