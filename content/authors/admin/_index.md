@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,7 +46,7 @@ interests:
   - Multi-modality
 
 education:
-  - area: PhD Student
+  - area: Graduate Student
     institution: KAIST AI
     date_start: 2025-09-01
     date_end: ''
@@ -64,7 +64,7 @@ education:
     summary: |
       Math, Physics, Economics, Business, English, Korean
 work:
-  - position: Applied Scientist (L5) Intern
+  - position: Incoming Applied Scientist (L5) Intern
     company_name: Amazon AGI (Bellevue)
     company_url: 'www.amazon.science'
     company_logo: ''
