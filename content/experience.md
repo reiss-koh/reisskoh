@@ -36,7 +36,7 @@ sections:
   - block: markdown
     content:
       title: 'Mentoring'
-      subtitle: 'If you would like to be mentored by me, please apply via OSI Lab, and let the Professor know you want to work with me.'
+      subtitle: ''
       text: |-
           <small> 
           <strong>[2026]</strong> Gilles Massoulié
@@ -47,8 +47,4 @@ sections:
     content:
       title: Awards
       username: admin
-  # - block: resume-languages
-  #   content:
-  #     title: Languages
-  #     username: admin
 ---
