@@ -39,10 +39,10 @@ sections:
       subtitle: ''
       text: |-
           <small> 
+          <strong>[2026]</strong> Gilles Massoulié
+          <br>
           <em> If you would like to be mentored by me, please apply via OSI Lab, and let the Professor know you want to work with me. </em>
-          <br>
-          <strong>[2026]</strong> Gilles Massoulié</small>
-          <br>
+          </small>
     design:
       columns: '1'
   - block: resume-awards
