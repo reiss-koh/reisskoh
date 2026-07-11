@@ -36,7 +36,7 @@ sections:
   - block: markdown
     content:
       title: 'Mentoring'
-      subtitle: '<em>If you would like to be mentored by me, please apply via OSI Lab, and let the Professor know you want to work with me.</em>'
+      subtitle: 'If you would like to be mentored by me, please apply via OSI Lab, and let the Professor know you want to work with me.'
       text: |-
           <small> 
           <strong>[2026]</strong> Gilles Massoulié
