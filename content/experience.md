@@ -30,8 +30,19 @@ sections:
           <strong>[2025 Reviewer]</strong> KDD (Research Track)</small>
           <br>
           <small>
-          <strong>[Lab Service]</strong> Server Manager (9 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
-
+          <strong>[2026 Lab Service]</strong> Server Manager (9 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Mentoring'
+      subtitle: ''
+      text: |-
+          <small> 
+          <em> If you would like to be mentored by me, please apply via OSI Lab, and let the Professor know you want to work with me. </em>
+          <br>
+          <strong>[2026]</strong> Gilles Massoulié</small>
+          <br>
     design:
       columns: '1'
   - block: resume-awards
