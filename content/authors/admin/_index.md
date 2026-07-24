@@ -166,4 +166,4 @@ awards:
 
 ## About Me 
 
-👋 Hi! I am interested in expanding what is possible for humanity. To this end, I primarily work on **Foundation Models (LLMs, VLMs)** and **Agents**. My work has spanned efficient long-context inference, scaling pre-training, post-training, reasoning, agents, feedback/evaluation, and inference-time scaling. These days I am working on **(i)** continual post-training, **(ii)** self-distillation/OPD, and **(iii)** VideoLLMs, while remaining broadly interested in high-impact problems. I am perfectly bilingual in English and Korean. If you have similar interests, let's connect.
+👋 Hi! I am interested in expanding what is possible for humanity. To this end, I work on improving models and systems along the performance and cost axes. My work has spanned efficient long-context inference, scaling pre-training, post-training, reasoning, agents, feedback/evaluation, and inference-time scaling. These days, I work on (i) continual post-training, (ii) self-distillation/OPD, and (iii) VideoLLMs, while remaining broadly interested in high-impact problems. I am bilingual in English and Korean. If you share similar interests, let's connect.
