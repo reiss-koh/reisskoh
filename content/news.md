@@ -1,6 +1,6 @@
 ---
 title: News
-date: 2026-02-07
+date: 
 share: false           # Removes the social sharing icons
 reading_time: false    # Removes the "1 min read" text
 commentable: false     # Prevents comment section from appearing
