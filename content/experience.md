@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: markdown
     content:
-      title: 'Research Collaboration'
+      title: 'Collaboration'
       subtitle: ''
       text: |-
           <small> 
@@ -43,11 +43,11 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'Undergraduate Mentoring'
+      title: 'Mentee'
       subtitle: ''
       text: |-
           <small> 
-          <strong>[2026]</strong> Gilles Massoulié (ENSAE Paris)
+          <strong>[2026 Summer]</strong> Gilles Massoulié (ENSAE Paris)
           </small>
     design:
       columns: '1'
