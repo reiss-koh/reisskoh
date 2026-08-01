@@ -66,7 +66,7 @@ education:
 work:
   - position: Incoming Applied Scientist (L5) Intern
     company_name: Amazon AGI (Bellevue)
-    company_url: 'www.amazon.science'
+    company_url: 'https://www.amazon.science'
     company_logo: ''
     date_start: 2026-09-01
     date_end: 2026-12-18
@@ -142,7 +142,7 @@ awards:
     date: '2021-11-01'
     awarder: Woori Financial Group
     summary: |
-      Published on Korea Times, one of the major English news outlets in Korea (founded in 1950).
+      Published at Korea Times.
   - title: 2nd Place - RUTC (Algorithmic Trading)
     date: '2021-08-01'
     awarder: University of Toronto
