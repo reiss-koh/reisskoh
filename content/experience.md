@@ -24,7 +24,7 @@ sections:
       subtitle: ''
       text: |-
           <small> 
-          I've had the pleasure to collaborate with folks at Google DeepMind, Samsung Advanced Institute of Technology (SAIT), LG AI Research (EXAONE Lab, Superintelligence Lab), and Trillion Labs.
+          I've collaborated with researchers at Google DeepMind, Samsung Advanced Institute of Technology (SAIT), LG AI Research (EXAONE Lab, Superintelligence Lab), and Trillion Labs.
           </small>
   - block: markdown
     content:
