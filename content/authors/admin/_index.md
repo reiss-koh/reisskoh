@@ -41,9 +41,8 @@ profiles:
     url: https://www.linkedin.com/in/reisskoh/
 
 interests:
-  - Reasoning and Agents
+  - Foundation Models
   - Efficient Learning and Models
-  - Multi-modality
 
 education:
   - area: Graduate Student
