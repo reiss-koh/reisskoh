@@ -1,5 +1,5 @@
 ---
-title: "A Taxonomy of Heterogeneous Statistical Interdependencies for Graph-Based Financial Time Series Prediction"
+title: "A Taxonomy of Heterogeneous Statistical Interdependencies for Graph-based Financial Time Series Prediction"
 authors:
 - "[J2] Insu Choi*"
 - Woosung Koh*
