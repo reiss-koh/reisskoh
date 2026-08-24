@@ -45,7 +45,7 @@ interests:
   - Efficient Learning and Models
 
 education:
-  - area: Graduate Student
+  - area: MS+PhD Student
     institution: KAIST AI
     date_start: 2025-09-01
     date_end: ''
