@@ -63,7 +63,7 @@ education:
     summary: |
       Math, Physics, Economics, Business, English, Korean
 work:
-  - position: Incoming Applied Scientist (L5) Intern
+  - position: Applied Scientist Intern
     company_name: Amazon AGI (Bellevue)
     company_url: 'https://www.amazon.science'
     company_logo: ''
