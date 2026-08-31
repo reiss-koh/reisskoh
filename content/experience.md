@@ -32,11 +32,21 @@ sections:
       subtitle: ''
       text: |-
           <small> 
-          <strong>[2026 Reviewer]</strong> ICLR, ICML, ACL ARR (January), NeurIPS, COLM, TMLR</small>
+          <strong>[2027 Reviewer]</strong> ICLR</small>
           <br>
+
+          <small> 
+          <strong>[2026 Reviewer]</strong> ICLR, ICML, ACL ARR (January), NeurIPS, COLM</small>
+          <br>
+
           <small> 
           <strong>[2025 Reviewer]</strong> KDD (Research Track)</small>
           <br>
+
+          <small> 
+          <strong>[Rolling Reviewer]</strong> TMLR</small>
+          <br>
+
           <small>
           <strong>[2026 Lab Service]</strong> Server Manager (9 nodes), Teaching Assistant (Stochastic Processes for AI; Graduate-level)</small>
     design:
