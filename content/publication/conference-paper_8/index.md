@@ -1,5 +1,5 @@
 ---
-title: "Large Language Models Can Control Their Own Attention"
+title: "Language Models Can Control Their Own Attention"
 
 tags:
   - "Long-context"
