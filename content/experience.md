@@ -57,7 +57,7 @@ sections:
       subtitle: ''
       text: |-
           <small> 
-          <strong>[2026 Summer]</strong> Gilles Massoulié (ENSAE Paris)
+          <strong>[2026]</strong> Gilles Massoulié (ENSAE Paris)
           </small>
     design:
       columns: '1'
