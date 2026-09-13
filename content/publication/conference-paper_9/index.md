@@ -1,26 +1,27 @@
 ---
-title: "Language Models Can Control Their Own Attention"
+title: "Continually Post-training Small Models via Synthetic Self-distillation"
 
 tags:
-  - "Long-context"
-  - "Efficient Inference"
-  - "Sparse Attention"
+  - "Continual Learning"
+  - "Self-distillation"
+  - "Fine-tuning"
+  - "Self-distillation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "[P1] Namgyu Ho*, Huzama Ahmad*, Woosung Koh*, Se-Young Yun, Tal Schuster, Cicero Nogueira dos Santos"
+  - "[P2] Woosung Koh, Hyunsoo Lee, Kyungjae Lee, Haeju Park, Dahyun Lee, Dasol Hwang, Moontae Lee"
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 
-date: '2026-05-22T00:00:00Z'
+date: '2026-09-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-05-22T00:00:00Z'
+publishDate: '2026-09-22T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
