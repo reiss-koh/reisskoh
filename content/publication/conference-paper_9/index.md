@@ -5,7 +5,7 @@ tags:
   - "Continual Learning"
   - "Self-distillation"
   - "Fine-tuning"
-  - "Self-distillation"
+  - "Small language model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
