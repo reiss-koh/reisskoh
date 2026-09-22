@@ -42,7 +42,8 @@ profiles:
 
 interests:
   - Foundation Models
-  - Efficient Learning and Models
+  - Learning
+  - Efficiency
 
 education:
   - area: MS+PhD Student
